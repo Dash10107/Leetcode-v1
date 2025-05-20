@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dash10107/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0931-maximum-frequency-stack](https://github.com/Dash10107/Leetcode/tree/master/0931-maximum-frequency-stack) |
 ## Design
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dash10107/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0817-design-hashmap](https://github.com/Dash10107/Leetcode/tree/master/0817-design-hashmap) |
 ## Linked List
 |  |
@@ -51,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dash10107/Leetcode/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dash10107/Leetcode/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dash10107/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dash10107/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
