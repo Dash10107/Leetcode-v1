@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dash10107/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/Dash10107/Leetcode/tree/master/0394-decode-string) |
 | [0931-maximum-frequency-stack](https://github.com/Dash10107/Leetcode/tree/master/0931-maximum-frequency-stack) |
 ## Design
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dash10107/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dash10107/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/Dash10107/Leetcode/tree/master/0139-word-break) |
+| [0394-decode-string](https://github.com/Dash10107/Leetcode/tree/master/0394-decode-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dash10107/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1250-longest-common-subsequence](https://github.com/Dash10107/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dash10107/Leetcode/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/Dash10107/Leetcode/tree/master/0394-decode-string) |
 ## Two Pointers
 |  |
 | ------- |
