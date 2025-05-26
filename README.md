@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Dash10107/Leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Dash10107/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Dash10107/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Dash10107/Leetcode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Dash10107/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Dash10107/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dash10107/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dash10107/Leetcode/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/Dash10107/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Dash10107/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Dash10107/Leetcode/tree/master/0198-house-robber) |
 | [1250-longest-common-subsequence](https://github.com/Dash10107/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Dash10107/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2444-longest-ideal-subsequence](https://github.com/Dash10107/Leetcode/tree/master/2444-longest-ideal-subsequence) |
