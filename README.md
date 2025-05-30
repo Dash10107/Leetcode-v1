@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Dash10107/Leetcode/tree/master/0139-word-break) |
 | [0394-decode-string](https://github.com/Dash10107/Leetcode/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0556-next-greater-element-iii](https://github.com/Dash10107/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dash10107/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0692-top-k-frequent-words](https://github.com/Dash10107/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1250-longest-common-subsequence](https://github.com/Dash10107/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Dash10107/Leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Dash10107/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0384-shuffle-an-array](https://github.com/Dash10107/Leetcode/tree/master/0384-shuffle-an-array) |
+| [0556-next-greater-element-iii](https://github.com/Dash10107/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0796-reaching-points](https://github.com/Dash10107/Leetcode/tree/master/0796-reaching-points) |
 | [1086-divisor-game](https://github.com/Dash10107/Leetcode/tree/master/1086-divisor-game) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Dash10107/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dash10107/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/Dash10107/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dash10107/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0556-next-greater-element-iii](https://github.com/Dash10107/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dash10107/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Dynamic Programming
 |  |
