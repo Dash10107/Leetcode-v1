@@ -1,16 +1,15 @@
 class Solution:
     def nextGreaterElements(self, nums1: List[int]) -> List[int]:
         n = len(nums1)
-        nums2 = nums1 + nums1
         res = [-1] * n
         st = deque()
 
         for i in range(2 * n - 1, -1, -1):
-            while st and st[-1] <= nums2[i]:
+            cur = nums1[i % n]
+            while st and nums1[st[-1]] <= cur:
                 st.pop()
-            if i < n:
-                if st:
-                    res[i] = st[-1]
-            st.append(nums2[i])
-        
+            if st:
+                res[i % n] = nums1[st[-1]]
+            st.append(i % n)
+
         return res
