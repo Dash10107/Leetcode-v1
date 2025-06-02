@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Dash10107/Leetcode/tree/master/0740-delete-and-earn) |
 | [0817-design-hashmap](https://github.com/Dash10107/Leetcode/tree/master/0817-design-hashmap) |
 | [0945-snakes-and-ladders](https://github.com/Dash10107/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Dash10107/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1137-height-checker](https://github.com/Dash10107/Leetcode/tree/master/1137-height-checker) |
 | [1428-jump-game-iii](https://github.com/Dash10107/Leetcode/tree/master/1428-jump-game-iii) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dash10107/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Dash10107/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Dash10107/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Dash10107/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [3647-zero-array-transformation-iii](https://github.com/Dash10107/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Greedy
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dash10107/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Dash10107/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dash10107/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Dash10107/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 ## Binary Search
 |  |
 | ------- |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Dash10107/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/Dash10107/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Dash10107/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dash10107/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Merge Sort
 |  |
@@ -364,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dash10107/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Queue
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Dash10107/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 <!---LeetCode Topics End-->
