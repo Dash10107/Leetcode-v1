@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/Dash10107/Leetcode/tree/master/1137-height-checker) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Dash10107/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/Dash10107/Leetcode/tree/master/1428-jump-game-iii) |
+| [1466-jump-game-v](https://github.com/Dash10107/Leetcode/tree/master/1466-jump-game-v) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dash10107/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Dash10107/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dash10107/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Dash10107/Leetcode/tree/master/0740-delete-and-earn) |
 | [1086-divisor-game](https://github.com/Dash10107/Leetcode/tree/master/1086-divisor-game) |
 | [1250-longest-common-subsequence](https://github.com/Dash10107/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1466-jump-game-v](https://github.com/Dash10107/Leetcode/tree/master/1466-jump-game-v) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Dash10107/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2444-longest-ideal-subsequence](https://github.com/Dash10107/Leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dash10107/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Dash10107/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/Dash10107/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1137-height-checker](https://github.com/Dash10107/Leetcode/tree/master/1137-height-checker) |
+| [1466-jump-game-v](https://github.com/Dash10107/Leetcode/tree/master/1466-jump-game-v) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dash10107/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dash10107/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Dash10107/Leetcode/tree/master/3647-zero-array-transformation-iii) |
