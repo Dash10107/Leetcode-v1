@@ -418,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Dash10107/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/Dash10107/Leetcode/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
