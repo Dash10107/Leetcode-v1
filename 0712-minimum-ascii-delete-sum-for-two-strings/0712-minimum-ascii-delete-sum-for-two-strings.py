@@ -1,17 +1,23 @@
 class Solution:
     def minimumDeleteSum(self, s1: str, s2: str) -> int:
-        n,m = len(s1),len(s2)
-        dp = defaultdict(int)
-        for i in range(n):
-            dp[(i, -1)] = dp[(i-1, -1)] + ord(s1[i])
-        for j in range(m):
-            dp[(-1, j)] = dp[(-1, j-1)] + ord(s2[j])
-        for i in range(n):
-            t1 = ord(s1[i])
-            for j in range(m):
-                t2 = ord(s2[j])
-                if s1[i]!=s2[j]:
-                     dp[(i,j)]=min(dp[(i-1,j-1)]+t2+t1,dp[(i-1,j)]+t1,dp[(i,j-1)]+t2)
-                else:
-                    dp[(i,j)]=dp[(i-1,j-1)]
-        return dp[(n-1,m-1)]
+        def lcs(s,p):
+            m,n = len(s),len(p)
+            dp = [[0 for _ in range(n+1)] for _ in range(m+1)]
+            for i in range(m):
+                for j in range(n):
+                    if s[i]==p[j]:
+                        dp[i+1][j+1] = dp[i][j]+ord(s[i])
+                    else:
+                        dp[i+1][j+1] = max(dp[i+1][j],dp[i][j+1])
+                        
+            return dp[-1][-1]
+        
+        common = lcs(s1,s2)
+        total,res = 0,0
+        for c in s1:
+            total+=ord(c)
+        for c in s2:
+            total+=ord(c)
+        
+        res = total - common*2
+        return res
