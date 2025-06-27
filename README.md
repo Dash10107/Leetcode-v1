@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Dash10107/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1804-maximum-binary-string-after-change](https://github.com/Dash10107/Leetcode/tree/master/1804-maximum-binary-string-after-change) |
 | [2001-jump-game-vii](https://github.com/Dash10107/Leetcode/tree/master/2001-jump-game-vii) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Dash10107/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dash10107/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Dash10107/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Dash10107/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Dash10107/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Dash10107/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/Dash10107/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Dash10107/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Math
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Dash10107/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Dash10107/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1804-maximum-binary-string-after-change](https://github.com/Dash10107/Leetcode/tree/master/1804-maximum-binary-string-after-change) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Dash10107/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dash10107/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Dash10107/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Dash10107/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Dash10107/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1137-height-checker](https://github.com/Dash10107/Leetcode/tree/master/1137-height-checker) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Dash10107/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Dash10107/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dash10107/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dash10107/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dash10107/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -594,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Dash10107/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Dash10107/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Dash10107/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Dash10107/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
