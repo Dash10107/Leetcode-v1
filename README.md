@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Dash10107/Leetcode/tree/master/0817-design-hashmap) |
 | [0833-bus-routes](https://github.com/Dash10107/Leetcode/tree/master/0833-bus-routes) |
 | [0869-similar-string-groups](https://github.com/Dash10107/Leetcode/tree/master/0869-similar-string-groups) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/Dash10107/Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0945-snakes-and-ladders](https://github.com/Dash10107/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0965-unique-email-addresses](https://github.com/Dash10107/Leetcode/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/Dash10107/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Dash10107/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Dash10107/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Dash10107/Leetcode/tree/master/0695-max-area-of-island) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/Dash10107/Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0945-snakes-and-ladders](https://github.com/Dash10107/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/Dash10107/Leetcode/tree/master/0971-shortest-bridge) |
 | [1380-number-of-closed-islands](https://github.com/Dash10107/Leetcode/tree/master/1380-number-of-closed-islands) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-bus-routes](https://github.com/Dash10107/Leetcode/tree/master/0833-bus-routes) |
 | [0869-similar-string-groups](https://github.com/Dash10107/Leetcode/tree/master/0869-similar-string-groups) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/Dash10107/Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0945-snakes-and-ladders](https://github.com/Dash10107/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/Dash10107/Leetcode/tree/master/0971-shortest-bridge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Dash10107/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Dash10107/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/Dash10107/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/Dash10107/Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Dash10107/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Dash10107/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dash10107/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
