@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dash10107/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Dash10107/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/Dash10107/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Dash10107/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Dash10107/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dash10107/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Dash10107/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dash10107/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/Dash10107/Leetcode/tree/master/3316-find-the-sum-of-subsequence-powers) |
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Dash10107/Leetcode/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Dash10107/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Dash10107/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2001-jump-game-vii](https://github.com/Dash10107/Leetcode/tree/master/2001-jump-game-vii) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Dash10107/Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Dash10107/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Dash10107/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Dash10107/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Greedy
