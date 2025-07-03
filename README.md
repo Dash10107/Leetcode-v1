@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0817-design-hashmap](https://github.com/Dash10107/Leetcode/tree/master/0817-design-hashmap) |
 | [1508-longest-happy-prefix](https://github.com/Dash10107/Leetcode/tree/master/1508-longest-happy-prefix) |
+| [2510-maximum-deletions-on-a-string](https://github.com/Dash10107/Leetcode/tree/master/2510-maximum-deletions-on-a-string) |
 ## String
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-naming-a-company](https://github.com/Dash10107/Leetcode/tree/master/2390-naming-a-company) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Dash10107/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2444-longest-ideal-subsequence](https://github.com/Dash10107/Leetcode/tree/master/2444-longest-ideal-subsequence) |
+| [2510-maximum-deletions-on-a-string](https://github.com/Dash10107/Leetcode/tree/master/2510-maximum-deletions-on-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Dash10107/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2886-faulty-keyboard](https://github.com/Dash10107/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3194-find-words-containing-character](https://github.com/Dash10107/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Dash10107/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2444-longest-ideal-subsequence](https://github.com/Dash10107/Leetcode/tree/master/2444-longest-ideal-subsequence) |
+| [2510-maximum-deletions-on-a-string](https://github.com/Dash10107/Leetcode/tree/master/2510-maximum-deletions-on-a-string) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dash10107/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/Dash10107/Leetcode/tree/master/3316-find-the-sum-of-subsequence-powers) |
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Dash10107/Leetcode/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
@@ -750,10 +753,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1508-longest-happy-prefix](https://github.com/Dash10107/Leetcode/tree/master/1508-longest-happy-prefix) |
+| [2510-maximum-deletions-on-a-string](https://github.com/Dash10107/Leetcode/tree/master/2510-maximum-deletions-on-a-string) |
 ## Rolling Hash
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/Dash10107/Leetcode/tree/master/1508-longest-happy-prefix) |
+| [2510-maximum-deletions-on-a-string](https://github.com/Dash10107/Leetcode/tree/master/2510-maximum-deletions-on-a-string) |
 ## Quickselect
 |  |
 | ------- |
