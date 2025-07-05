@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/Dash10107/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dash10107/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Dash10107/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Dash10107/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Dash10107/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Dash10107/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2390-naming-a-company](https://github.com/Dash10107/Leetcode/tree/master/2390-naming-a-company) |
