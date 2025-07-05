@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Dash10107/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Dash10107/Leetcode/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/Dash10107/Leetcode/tree/master/0052-n-queens-ii) |
+| [0077-combinations](https://github.com/Dash10107/Leetcode/tree/master/0077-combinations) |
 | [0301-remove-invalid-parentheses](https://github.com/Dash10107/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Dash10107/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/Dash10107/Leetcode/tree/master/0491-non-decreasing-subsequences) |
