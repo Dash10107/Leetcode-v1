@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Dash10107/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Dash10107/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Dash10107/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Dash10107/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Dash10107/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1873-longest-nice-substring](https://github.com/Dash10107/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Dash10107/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-longest-happy-prefix](https://github.com/Dash10107/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1666-make-the-string-great](https://github.com/Dash10107/Leetcode/tree/master/1666-make-the-string-great) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Dash10107/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Dash10107/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1804-maximum-binary-string-after-change](https://github.com/Dash10107/Leetcode/tree/master/1804-maximum-binary-string-after-change) |
 | [1873-longest-nice-substring](https://github.com/Dash10107/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/Dash10107/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dash10107/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dash10107/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Dash10107/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Dash10107/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Dash10107/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Dash10107/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Dash10107/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/Dash10107/Leetcode/tree/master/1137-height-checker) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Dash10107/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Dash10107/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Dash10107/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Dash10107/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Dash10107/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dash10107/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
