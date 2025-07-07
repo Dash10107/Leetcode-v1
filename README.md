@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dash10107/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Dash10107/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dash10107/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Dash10107/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Dash10107/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2103-find-all-groups-of-farmland](https://github.com/Dash10107/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Dash10107/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Dash10107/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Dash10107/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1466-jump-game-v](https://github.com/Dash10107/Leetcode/tree/master/1466-jump-game-v) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Dash10107/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Dash10107/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2001-jump-game-vii](https://github.com/Dash10107/Leetcode/tree/master/2001-jump-game-vii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Dash10107/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dash10107/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Dash10107/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Dash10107/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Dash10107/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Dash10107/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Dash10107/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Dash10107/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dash10107/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Dash10107/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dash10107/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Dash10107/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Dash10107/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Dash10107/Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
