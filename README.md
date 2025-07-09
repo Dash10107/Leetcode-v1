@@ -806,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1212-sequential-digits](https://github.com/Dash10107/Leetcode/tree/master/1212-sequential-digits) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Dash10107/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2390-naming-a-company](https://github.com/Dash10107/Leetcode/tree/master/2390-naming-a-company) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Dash10107/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
