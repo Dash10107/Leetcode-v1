@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/Dash10107/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0965-unique-email-addresses](https://github.com/Dash10107/Leetcode/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/Dash10107/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Dash10107/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Dash10107/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Dash10107/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Dash10107/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/Dash10107/Leetcode/tree/master/1105-uncrossed-lines) |
 | [1137-height-checker](https://github.com/Dash10107/Leetcode/tree/master/1137-height-checker) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Dash10107/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Dash10107/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1380-number-of-closed-islands](https://github.com/Dash10107/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Dash10107/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Dash10107/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Dash10107/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0796-reaching-points](https://github.com/Dash10107/Leetcode/tree/master/0796-reaching-points) |
 | [1086-divisor-game](https://github.com/Dash10107/Leetcode/tree/master/1086-divisor-game) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Dash10107/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Dash10107/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Dash10107/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Dash10107/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Dash10107/Leetcode/tree/master/0525-contiguous-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Dash10107/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Dash10107/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Dash10107/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2001-jump-game-vii](https://github.com/Dash10107/Leetcode/tree/master/2001-jump-game-vii) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Dash10107/Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Dash10107/Leetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
@@ -552,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Dash10107/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Dash10107/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Dash10107/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Dash10107/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dash10107/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1755-defuse-the-bomb](https://github.com/Dash10107/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/Dash10107/Leetcode/tree/master/1873-longest-nice-substring) |
