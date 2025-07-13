@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Dash10107/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Dash10107/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0931-maximum-frequency-stack](https://github.com/Dash10107/Leetcode/tree/master/0931-maximum-frequency-stack) |
+| [0937-online-stock-span](https://github.com/Dash10107/Leetcode/tree/master/0937-online-stock-span) |
 | [1666-make-the-string-great](https://github.com/Dash10107/Leetcode/tree/master/1666-make-the-string-great) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Dash10107/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dash10107/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/Dash10107/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0817-design-hashmap](https://github.com/Dash10107/Leetcode/tree/master/0817-design-hashmap) |
 | [0931-maximum-frequency-stack](https://github.com/Dash10107/Leetcode/tree/master/0931-maximum-frequency-stack) |
+| [0937-online-stock-span](https://github.com/Dash10107/Leetcode/tree/master/0937-online-stock-span) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Dash10107/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Ordered Set
 |  |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Dash10107/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Dash10107/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dash10107/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/Dash10107/Leetcode/tree/master/0937-online-stock-span) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -882,4 +885,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/Dash10107/Leetcode/tree/master/0464-can-i-win) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Dash10107/Leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
