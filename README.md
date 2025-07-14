@@ -634,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Dash10107/Leetcode/tree/master/0690-employee-importance) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/Dash10107/Leetcode/tree/master/1040-maximum-binary-tree-ii) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Dash10107/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dash10107/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dash10107/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Dash10107/Leetcode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-find-all-groups-of-farmland](https://github.com/Dash10107/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Dash10107/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Dash10107/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Dash10107/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Dash10107/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Dash10107/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/Dash10107/Leetcode/tree/master/1040-maximum-binary-tree-ii) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Dash10107/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dash10107/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Trie
 |  |
