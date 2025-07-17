@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Dash10107/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Dash10107/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0044-wildcard-matching](https://github.com/Dash10107/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Dash10107/Leetcode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Dash10107/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Dash10107/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dash10107/Leetcode/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/Dash10107/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Dash10107/Leetcode/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/Dash10107/Leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Dash10107/Leetcode/tree/master/0486-predict-the-winner) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dash10107/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dash10107/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Dash10107/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Dash10107/Leetcode/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Dash10107/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Dash10107/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Dash10107/Leetcode/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/Dash10107/Leetcode/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/Dash10107/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Dash10107/Leetcode/tree/master/0435-non-overlapping-intervals) |
