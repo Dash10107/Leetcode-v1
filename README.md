@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dash10107/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/Dash10107/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Dash10107/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Dash10107/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Dash10107/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Dash10107/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Dash10107/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Dash10107/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2001-jump-game-vii](https://github.com/Dash10107/Leetcode/tree/master/2001-jump-game-vii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Dash10107/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Dash10107/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Dash10107/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2444-longest-ideal-subsequence](https://github.com/Dash10107/Leetcode/tree/master/2444-longest-ideal-subsequence) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Dash10107/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dash10107/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Dash10107/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Dash10107/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2329-maximum-product-after-k-increments](https://github.com/Dash10107/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Dash10107/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Dash10107/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
