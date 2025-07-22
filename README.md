@@ -942,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Dash10107/Leetcode/tree/master/0183-customers-who-never-order) |
+| [1801-average-time-of-process-per-machine](https://github.com/Dash10107/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 ## Monotonic Queue
 |  |
 | ------- |
