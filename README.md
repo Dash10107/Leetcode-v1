@@ -726,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-find-all-groups-of-farmland](https://github.com/Dash10107/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Dash10107/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Dash10107/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Dash10107/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Dash10107/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Dash10107/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Dash10107/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Dash10107/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Dash10107/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Dash10107/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Dash10107/Leetcode/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Dash10107/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Dash10107/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -867,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dash10107/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Dash10107/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Dash10107/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Dash10107/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Dash10107/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Brainteaser
