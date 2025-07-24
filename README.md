@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-escape-the-spreading-fire](https://github.com/Dash10107/Leetcode/tree/master/2344-escape-the-spreading-fire) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Dash10107/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2390-naming-a-company](https://github.com/Dash10107/Leetcode/tree/master/2390-naming-a-company) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Dash10107/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Dash10107/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Dash10107/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/Dash10107/Leetcode/tree/master/1040-maximum-binary-tree-ii) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Dash10107/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Dash10107/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dash10107/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dash10107/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Dash10107/Leetcode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/Dash10107/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Dash10107/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Dash10107/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Dash10107/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Dash10107/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Dash10107/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -829,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Dash10107/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1873-longest-nice-substring](https://github.com/Dash10107/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2390-naming-a-company](https://github.com/Dash10107/Leetcode/tree/master/2390-naming-a-company) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Dash10107/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dash10107/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Dash10107/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Dash10107/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
