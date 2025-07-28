@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-find-all-groups-of-farmland](https://github.com/Dash10107/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Dash10107/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Dash10107/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dash10107/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Dash10107/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Dash10107/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dash10107/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Dash10107/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/Dash10107/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Dash10107/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dash10107/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Math
 |  |
 | ------- |
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Dash10107/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Dash10107/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1873-longest-nice-substring](https://github.com/Dash10107/Leetcode/tree/master/1873-longest-nice-substring) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dash10107/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2390-naming-a-company](https://github.com/Dash10107/Leetcode/tree/master/2390-naming-a-company) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Dash10107/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dash10107/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -934,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1212-sequential-digits](https://github.com/Dash10107/Leetcode/tree/master/1212-sequential-digits) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Dash10107/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dash10107/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2390-naming-a-company](https://github.com/Dash10107/Leetcode/tree/master/2390-naming-a-company) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Dash10107/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Dash10107/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
