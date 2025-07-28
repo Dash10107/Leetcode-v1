@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/Dash10107/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/Dash10107/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dash10107/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0640-solve-the-equation](https://github.com/Dash10107/Leetcode/tree/master/0640-solve-the-equation) |
 | [0647-palindromic-substrings](https://github.com/Dash10107/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Dash10107/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Dash10107/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Dash10107/Leetcode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Dash10107/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/Dash10107/Leetcode/tree/master/0556-next-greater-element-iii) |
+| [0640-solve-the-equation](https://github.com/Dash10107/Leetcode/tree/master/0640-solve-the-equation) |
 | [0796-reaching-points](https://github.com/Dash10107/Leetcode/tree/master/0796-reaching-points) |
 | [1086-divisor-game](https://github.com/Dash10107/Leetcode/tree/master/1086-divisor-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Dash10107/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0640-solve-the-equation](https://github.com/Dash10107/Leetcode/tree/master/0640-solve-the-equation) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Dash10107/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Dash10107/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2886-faulty-keyboard](https://github.com/Dash10107/Leetcode/tree/master/2886-faulty-keyboard) |
