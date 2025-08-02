@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Dash10107/Leetcode/tree/master/0739-daily-temperatures) |
 | [0931-maximum-frequency-stack](https://github.com/Dash10107/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/Dash10107/Leetcode/tree/master/0937-online-stock-span) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Dash10107/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1666-make-the-string-great](https://github.com/Dash10107/Leetcode/tree/master/1666-make-the-string-great) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Dash10107/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dash10107/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1087-longest-arithmetic-subsequence](https://github.com/Dash10107/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/Dash10107/Leetcode/tree/master/1105-uncrossed-lines) |
 | [1137-height-checker](https://github.com/Dash10107/Leetcode/tree/master/1137-height-checker) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Dash10107/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dash10107/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Dash10107/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Dash10107/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Dash10107/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Dash10107/Leetcode/tree/master/0937-online-stock-span) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Dash10107/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Divide and Conquer
 |  |
 | ------- |
