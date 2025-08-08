@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-naming-a-company](https://github.com/Dash10107/Leetcode/tree/master/2390-naming-a-company) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Dash10107/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Dash10107/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Dash10107/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Dash10107/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dash10107/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Dash10107/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Dash10107/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Dash10107/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2444-longest-ideal-subsequence](https://github.com/Dash10107/Leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2510-maximum-deletions-on-a-string](https://github.com/Dash10107/Leetcode/tree/master/2510-maximum-deletions-on-a-string) |
 | [2755-extra-characters-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/2755-extra-characters-in-a-string) |
