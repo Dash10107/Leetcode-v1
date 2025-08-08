@@ -518,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/Dash10107/Leetcode/tree/master/1105-uncrossed-lines) |
 | [1240-stone-game-ii](https://github.com/Dash10107/Leetcode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/Dash10107/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/Dash10107/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Dash10107/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Dash10107/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1466-jump-game-v](https://github.com/Dash10107/Leetcode/tree/master/1466-jump-game-v) |
