@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Dash10107/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0640-solve-the-equation](https://github.com/Dash10107/Leetcode/tree/master/0640-solve-the-equation) |
 | [0796-reaching-points](https://github.com/Dash10107/Leetcode/tree/master/0796-reaching-points) |
+| [0826-soup-servings](https://github.com/Dash10107/Leetcode/tree/master/0826-soup-servings) |
 | [1086-divisor-game](https://github.com/Dash10107/Leetcode/tree/master/1086-divisor-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Dash10107/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Dash10107/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Dash10107/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Dash10107/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/Dash10107/Leetcode/tree/master/0740-delete-and-earn) |
+| [0826-soup-servings](https://github.com/Dash10107/Leetcode/tree/master/0826-soup-servings) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Dash10107/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Dash10107/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1081-video-stitching](https://github.com/Dash10107/Leetcode/tree/master/1081-video-stitching) |
@@ -1116,4 +1118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Dash10107/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Dash10107/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Dash10107/Leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
