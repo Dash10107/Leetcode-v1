@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Dash10107/Leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Dash10107/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/Dash10107/Leetcode/tree/master/3519-find-the-number-of-winning-players) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Dash10107/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Dash10107/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Dash10107/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3654-minimum-array-sum](https://github.com/Dash10107/Leetcode/tree/master/3654-minimum-array-sum) |
