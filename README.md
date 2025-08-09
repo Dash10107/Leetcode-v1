@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Dash10107/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/Dash10107/Leetcode/tree/master/3519-find-the-number-of-winning-players) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Dash10107/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Dash10107/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Dash10107/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Dash10107/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3654-minimum-array-sum](https://github.com/Dash10107/Leetcode/tree/master/3654-minimum-array-sum) |
@@ -807,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Dash10107/Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Dash10107/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Dash10107/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dash10107/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Dash10107/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Tree
