@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Dash10107/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Dash10107/Leetcode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Dash10107/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3442-maximum-total-reward-using-operations-i](https://github.com/Dash10107/Leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/Dash10107/Leetcode/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Dash10107/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Dash10107/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Dash10107/Leetcode/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Dash10107/Leetcode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Dash10107/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3442-maximum-total-reward-using-operations-i](https://github.com/Dash10107/Leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/Dash10107/Leetcode/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Dash10107/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Dash10107/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
