@@ -1,12 +1,11 @@
 class Solution:
     def canCross(self, stones: List[int]) -> bool:
-        s = set(stones)
-        vis = set()
-        def func(val,last):
-            if (val+last not in s) or ((val,last) in vis):
-                return False
-            if val+last== stones[-1]:
-                return True
-            vis.add((val,last))
-            return func(val+last,last) or func(val+last,last-1) or func(val+last,last+1)
-        return func(stones[0],1)
+        n = len(stones)
+        dp = defaultdict(set)
+        dp[1]={1}
+        for loc in stones[1:]:
+            for s in list(dp[loc]):
+                dp[loc+s].add(s)
+                dp[loc+s-1].add(s-1)
+                dp[loc+s+1].add(s+1)
+        return len(dp[stones[-1]])!=0
