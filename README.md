@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dash10107/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0640-solve-the-equation](https://github.com/Dash10107/Leetcode/tree/master/0640-solve-the-equation) |
 | [0647-palindromic-substrings](https://github.com/Dash10107/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0664-strange-printer](https://github.com/Dash10107/Leetcode/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/Dash10107/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Dash10107/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Dash10107/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0576-out-of-boundary-paths](https://github.com/Dash10107/Leetcode/tree/master/0576-out-of-boundary-paths) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Dash10107/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Dash10107/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0664-strange-printer](https://github.com/Dash10107/Leetcode/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/Dash10107/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/Dash10107/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Dash10107/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
