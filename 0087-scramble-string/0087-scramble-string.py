@@ -1,18 +1,19 @@
 class Solution:
-    def isScramble(self, s1: str, s2: str) -> bool:
-        n = len(s1)
-        if n!=len(s2):
-            return False
-        @cache
-        def func(i,j,l):
-            if s1[i:i+l]==s2[j:j+l]:
-                return True
-            if Counter(s1[i:i+l])!=Counter(s2[j:j+l]):
-                return False
-            for k in range(1,l):
-                if func(i,j,k) and func(i+k,j+k,l-k):
+    def isScramble(self, s: str, t: str) -> bool:
+        d = {}
+        def func(s1,s2):
+            n = len(s1)
+            if s1==s2:return True
+            if n==1:return False
+            key = s1+s2
+            if key in d:return d[key]
+            for i in range(1,n):
+                if func(s1[:i],s2[:i]) and func(s1[i:],s2[i:]):
+                    d[key]=True
                     return True
-                if func(i+k,j,l-k) and func(i,j+l-k,k):
+                if func(s1[:i],s2[-i:]) and func(s1[i:],s2[:-i]):
+                    d[key]=True
                     return True
+            d[key]=False
             return False
-        return func(0,0,n)
+        return func(s,t)
