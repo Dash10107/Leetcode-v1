@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3519-find-the-number-of-winning-players](https://github.com/Dash10107/Leetcode/tree/master/3519-find-the-number-of-winning-players) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Dash10107/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3634-find-mirror-score-of-a-string](https://github.com/Dash10107/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
+| [3646-sum-of-good-subsequences](https://github.com/Dash10107/Leetcode/tree/master/3646-sum-of-good-subsequences) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Dash10107/Leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dash10107/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Dash10107/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3519-find-the-number-of-winning-players](https://github.com/Dash10107/Leetcode/tree/master/3519-find-the-number-of-winning-players) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Dash10107/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Dash10107/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3646-sum-of-good-subsequences](https://github.com/Dash10107/Leetcode/tree/master/3646-sum-of-good-subsequences) |
 | [3647-zero-array-transformation-iii](https://github.com/Dash10107/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Dash10107/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3654-minimum-array-sum](https://github.com/Dash10107/Leetcode/tree/master/3654-minimum-array-sum) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Dash10107/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Dash10107/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Dash10107/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3646-sum-of-good-subsequences](https://github.com/Dash10107/Leetcode/tree/master/3646-sum-of-good-subsequences) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Dash10107/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3654-minimum-array-sum](https://github.com/Dash10107/Leetcode/tree/master/3654-minimum-array-sum) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/Dash10107/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
