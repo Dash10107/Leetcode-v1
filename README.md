@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Dash10107/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Dash10107/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/Dash10107/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/Dash10107/Leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dash10107/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/Dash10107/Leetcode/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/Dash10107/Leetcode/tree/master/0486-predict-the-winner) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Dash10107/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/Dash10107/Leetcode/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/Dash10107/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/Dash10107/Leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0464-can-i-win](https://github.com/Dash10107/Leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Dash10107/Leetcode/tree/master/0486-predict-the-winner) |
 | [0514-freedom-trail](https://github.com/Dash10107/Leetcode/tree/master/0514-freedom-trail) |
