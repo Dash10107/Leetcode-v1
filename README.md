@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Dash10107/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1522-stone-game-iii](https://github.com/Dash10107/Leetcode/tree/master/1522-stone-game-iii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dash10107/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/Dash10107/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1559-cherry-pickup-ii](https://github.com/Dash10107/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dash10107/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Dash10107/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Dash10107/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1466-jump-game-v](https://github.com/Dash10107/Leetcode/tree/master/1466-jump-game-v) |
 | [1522-stone-game-iii](https://github.com/Dash10107/Leetcode/tree/master/1522-stone-game-iii) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/Dash10107/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1559-cherry-pickup-ii](https://github.com/Dash10107/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1680-count-all-possible-routes](https://github.com/Dash10107/Leetcode/tree/master/1680-count-all-possible-routes) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Dash10107/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/Dash10107/Leetcode/tree/master/0971-shortest-bridge) |
 | [1380-number-of-closed-islands](https://github.com/Dash10107/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Dash10107/Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/Dash10107/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1559-cherry-pickup-ii](https://github.com/Dash10107/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [2103-find-all-groups-of-farmland](https://github.com/Dash10107/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Dash10107/Leetcode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/Dash10107/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Dash10107/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/Dash10107/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/Dash10107/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [2001-jump-game-vii](https://github.com/Dash10107/Leetcode/tree/master/2001-jump-game-vii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Dash10107/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Dash10107/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -1010,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Dash10107/Leetcode/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dash10107/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0464-can-i-win](https://github.com/Dash10107/Leetcode/tree/master/0464-can-i-win) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/Dash10107/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1680-count-all-possible-routes](https://github.com/Dash10107/Leetcode/tree/master/1680-count-all-possible-routes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Dash10107/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Dash10107/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
