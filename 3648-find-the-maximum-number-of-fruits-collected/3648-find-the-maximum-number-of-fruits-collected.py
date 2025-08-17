@@ -12,13 +12,13 @@ class Solution:
 
 
         n = len(fruits)
-        diag = sum(map(lambda x:fruits[x][x], range(n)))    # <= 1)
+        diag = sum(map(lambda x:fruits[x][x], range(n)))    
 
-        upper = dp(n - 1, 0)                                # <= 2)
+        upper = dp(n - 1, 0)                                
 
-        dp.cache_clear()                                    # <= 3)
-        fruits = list(zip(*fruits))                         # 
-                                                            # 
-        lower = dp(n - 1, 0)                                # 
+        dp.cache_clear()                                    
+        fruits = list(zip(*fruits))                          
+                                                             
+        lower = dp(n - 1, 0)                                 
 
-        return diag + upper + lower                         # <= 4)
+        return diag + upper + lower                         
