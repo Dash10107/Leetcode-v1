@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Dash10107/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Dash10107/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Dash10107/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0679-24-game](https://github.com/Dash10107/Leetcode/tree/master/0679-24-game) |
 | [0690-employee-importance](https://github.com/Dash10107/Leetcode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/Dash10107/Leetcode/tree/master/0692-top-k-frequent-words) |
