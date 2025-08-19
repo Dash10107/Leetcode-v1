@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-naming-a-company](https://github.com/Dash10107/Leetcode/tree/master/2390-naming-a-company) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Dash10107/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2444-longest-ideal-subsequence](https://github.com/Dash10107/Leetcode/tree/master/2444-longest-ideal-subsequence) |
+| [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Dash10107/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2510-maximum-deletions-on-a-string](https://github.com/Dash10107/Leetcode/tree/master/2510-maximum-deletions-on-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Dash10107/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2701-subsequence-with-the-minimum-score](https://github.com/Dash10107/Leetcode/tree/master/2701-subsequence-with-the-minimum-score) |
