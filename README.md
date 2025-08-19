@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Dash10107/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Dash10107/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Dash10107/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0742-to-lower-case](https://github.com/Dash10107/Leetcode/tree/master/0742-to-lower-case) |
 | [0753-open-the-lock](https://github.com/Dash10107/Leetcode/tree/master/0753-open-the-lock) |
 | [0869-similar-string-groups](https://github.com/Dash10107/Leetcode/tree/master/0869-similar-string-groups) |
 | [0889-buddy-strings](https://github.com/Dash10107/Leetcode/tree/master/0889-buddy-strings) |
