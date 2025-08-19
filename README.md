@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Dash10107/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2689-rearranging-fruits](https://github.com/Dash10107/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2755-extra-characters-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/Dash10107/Leetcode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dash10107/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Dash10107/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dash10107/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dash10107/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Dash10107/Leetcode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dash10107/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/Dash10107/Leetcode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/Dash10107/Leetcode/tree/master/3316-find-the-sum-of-subsequence-powers) |
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Dash10107/Leetcode/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Dash10107/Leetcode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dash10107/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Dash10107/Leetcode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dash10107/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/Dash10107/Leetcode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/Dash10107/Leetcode/tree/master/3316-find-the-sum-of-subsequence-powers) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dash10107/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Dash10107/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -845,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dash10107/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Dash10107/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Dash10107/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3308-apply-operations-to-make-string-empty](https://github.com/Dash10107/Leetcode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dash10107/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Dash10107/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3519-find-the-number-of-winning-players](https://github.com/Dash10107/Leetcode/tree/master/3519-find-the-number-of-winning-players) |
