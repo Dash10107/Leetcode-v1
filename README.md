@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Dash10107/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1086-divisor-game](https://github.com/Dash10107/Leetcode/tree/master/1086-divisor-game) |
 | [1240-stone-game-ii](https://github.com/Dash10107/Leetcode/tree/master/1240-stone-game-ii) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Dash10107/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Dash10107/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Dash10107/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Dash10107/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Dash10107/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1290-make-array-strictly-increasing](https://github.com/Dash10107/Leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Dash10107/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Dash10107/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Dash10107/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/Dash10107/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Dash10107/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1165,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Dash10107/Leetcode/tree/master/1086-divisor-game) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Dash10107/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dash10107/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Game Theory
 |  |
@@ -1300,6 +1303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0826-soup-servings](https://github.com/Dash10107/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Dash10107/Leetcode/tree/master/0867-new-21-game) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Dash10107/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 ## Binary Indexed Tree
 |  |
 | ------- |
