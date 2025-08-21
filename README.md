@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/Dash10107/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/Dash10107/Leetcode/tree/master/0937-online-stock-span) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Dash10107/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Dash10107/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1666-make-the-string-great](https://github.com/Dash10107/Leetcode/tree/master/1666-make-the-string-great) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Dash10107/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Dash10107/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dash10107/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Dash10107/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dash10107/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Dash10107/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1680-count-all-possible-routes](https://github.com/Dash10107/Leetcode/tree/master/1680-count-all-possible-routes) |
 | [1755-defuse-the-bomb](https://github.com/Dash10107/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Dash10107/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/Dash10107/Leetcode/tree/master/1522-stone-game-iii) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/Dash10107/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1559-cherry-pickup-ii](https://github.com/Dash10107/Leetcode/tree/master/1559-cherry-pickup-ii) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Dash10107/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1680-count-all-possible-routes](https://github.com/Dash10107/Leetcode/tree/master/1680-count-all-possible-routes) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Dash10107/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1906-maximize-score-after-n-operations](https://github.com/Dash10107/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Dash10107/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Dash10107/Leetcode/tree/master/0937-online-stock-span) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Dash10107/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Dash10107/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Dash10107/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 ## Divide and Conquer
 |  |
@@ -697,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Dash10107/Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/Dash10107/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1559-cherry-pickup-ii](https://github.com/Dash10107/Leetcode/tree/master/1559-cherry-pickup-ii) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Dash10107/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2103-find-all-groups-of-farmland](https://github.com/Dash10107/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Dash10107/Leetcode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2344-escape-the-spreading-fire](https://github.com/Dash10107/Leetcode/tree/master/2344-escape-the-spreading-fire) |
