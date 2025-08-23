@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Dash10107/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Dash10107/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2390-naming-a-company](https://github.com/Dash10107/Leetcode/tree/master/2390-naming-a-company) |
+| [2427-first-letter-to-appear-twice](https://github.com/Dash10107/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2444-longest-ideal-subsequence](https://github.com/Dash10107/Leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dash10107/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2505-number-of-good-paths](https://github.com/Dash10107/Leetcode/tree/master/2505-number-of-good-paths) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Dash10107/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2390-naming-a-company](https://github.com/Dash10107/Leetcode/tree/master/2390-naming-a-company) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Dash10107/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2427-first-letter-to-appear-twice](https://github.com/Dash10107/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2444-longest-ideal-subsequence](https://github.com/Dash10107/Leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Dash10107/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2510-maximum-deletions-on-a-string](https://github.com/Dash10107/Leetcode/tree/master/2510-maximum-deletions-on-a-string) |
@@ -892,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dash10107/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Dash10107/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Dash10107/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2427-first-letter-to-appear-twice](https://github.com/Dash10107/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/Dash10107/Leetcode/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/Dash10107/Leetcode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dash10107/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1139,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Dash10107/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2390-naming-a-company](https://github.com/Dash10107/Leetcode/tree/master/2390-naming-a-company) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Dash10107/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2427-first-letter-to-appear-twice](https://github.com/Dash10107/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Dash10107/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dash10107/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Dash10107/Leetcode/tree/master/2529-range-product-queries-of-powers) |
