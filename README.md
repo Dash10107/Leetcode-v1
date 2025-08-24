@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Dash10107/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dash10107/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0384-shuffle-an-array](https://github.com/Dash10107/Leetcode/tree/master/0384-shuffle-an-array) |
+| [0396-rotate-function](https://github.com/Dash10107/Leetcode/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Dash10107/Leetcode/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/Dash10107/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Dash10107/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Dash10107/Leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Dash10107/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0384-shuffle-an-array](https://github.com/Dash10107/Leetcode/tree/master/0384-shuffle-an-array) |
+| [0396-rotate-function](https://github.com/Dash10107/Leetcode/tree/master/0396-rotate-function) |
 | [0445-add-two-numbers-ii](https://github.com/Dash10107/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dash10107/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0464-can-i-win](https://github.com/Dash10107/Leetcode/tree/master/0464-can-i-win) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Dash10107/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0376-wiggle-subsequence](https://github.com/Dash10107/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Dash10107/Leetcode/tree/master/0377-combination-sum-iv) |
+| [0396-rotate-function](https://github.com/Dash10107/Leetcode/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Dash10107/Leetcode/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/Dash10107/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/Dash10107/Leetcode/tree/master/0435-non-overlapping-intervals) |
