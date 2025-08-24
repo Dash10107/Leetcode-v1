@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dash10107/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Dash10107/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dash10107/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Dash10107/Leetcode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Dash10107/Leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/Dash10107/Leetcode/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3519-find-the-number-of-winning-players](https://github.com/Dash10107/Leetcode/tree/master/3519-find-the-number-of-winning-players) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Dash10107/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/Dash10107/Leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/Dash10107/Leetcode/tree/master/3443-maximum-total-reward-using-operations-ii) |
+| [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Dash10107/Leetcode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Dash10107/Leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Dash10107/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Dash10107/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Dash10107/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/Dash10107/Leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/Dash10107/Leetcode/tree/master/3443-maximum-total-reward-using-operations-ii) |
+| [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Dash10107/Leetcode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Dash10107/Leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/Dash10107/Leetcode/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Dash10107/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
