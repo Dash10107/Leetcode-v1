@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Dash10107/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Dash10107/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Dash10107/Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Dash10107/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Dash10107/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Dash10107/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Dash10107/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/Dash10107/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dash10107/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Dash10107/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Dash10107/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1508-longest-happy-prefix](https://github.com/Dash10107/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dash10107/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1666-make-the-string-great](https://github.com/Dash10107/Leetcode/tree/master/1666-make-the-string-great) |
@@ -955,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Dash10107/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Dash10107/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Dash10107/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Dash10107/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dash10107/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dash10107/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dash10107/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
