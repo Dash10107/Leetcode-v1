@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dash10107/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Dash10107/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Dash10107/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Dash10107/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Dash10107/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Dash10107/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/Dash10107/Leetcode/tree/master/0133-clone-graph) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Dash10107/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dash10107/Leetcode/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/Dash10107/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Dash10107/Leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Dash10107/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Dash10107/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Dash10107/Leetcode/tree/master/0047-permutations-ii) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dash10107/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Dash10107/Leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Dash10107/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Dash10107/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Dash10107/Leetcode/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/Dash10107/Leetcode/tree/master/0052-n-queens-ii) |
@@ -752,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Dash10107/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Dash10107/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Dash10107/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Dash10107/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/Dash10107/Leetcode/tree/master/0221-maximal-square) |
