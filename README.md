@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Dash10107/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3654-minimum-array-sum](https://github.com/Dash10107/Leetcode/tree/master/3654-minimum-array-sum) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/Dash10107/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Dash10107/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3699-count-special-subsequences](https://github.com/Dash10107/Leetcode/tree/master/3699-count-special-subsequences) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Dash10107/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Dash10107/Leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Dash10107/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Dash10107/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/Dash10107/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Dash10107/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Dash10107/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Dash10107/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Prefix Sum
@@ -869,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dash10107/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Dash10107/Leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Dash10107/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Dash10107/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Dash10107/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Dash10107/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Dash10107/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
