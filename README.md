@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3194-find-words-containing-character](https://github.com/Dash10107/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dash10107/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Dash10107/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Dash10107/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/Dash10107/Leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Dash10107/Leetcode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -1232,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Dash10107/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dash10107/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Dash10107/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Dash10107/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dash10107/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/Dash10107/Leetcode/tree/master/3443-maximum-total-reward-using-operations-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Dash10107/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
