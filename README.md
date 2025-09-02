@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Dash10107/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0299-bulls-and-cows](https://github.com/Dash10107/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dash10107/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0398-random-pick-index](https://github.com/Dash10107/Leetcode/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dash10107/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0491-non-decreasing-subsequences](https://github.com/Dash10107/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Dash10107/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Dash10107/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0384-shuffle-an-array](https://github.com/Dash10107/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/Dash10107/Leetcode/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/Dash10107/Leetcode/tree/master/0398-random-pick-index) |
 | [0445-add-two-numbers-ii](https://github.com/Dash10107/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dash10107/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0464-can-i-win](https://github.com/Dash10107/Leetcode/tree/master/0464-can-i-win) |
@@ -1209,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/Dash10107/Leetcode/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/Dash10107/Leetcode/tree/master/0398-random-pick-index) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1451,4 +1454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Dash10107/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Dash10107/Leetcode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
