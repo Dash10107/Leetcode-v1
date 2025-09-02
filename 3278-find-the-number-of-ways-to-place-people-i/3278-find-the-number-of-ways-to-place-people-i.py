@@ -1,17 +1,19 @@
 class Solution:
     def numberOfPairs(self, points: List[List[int]]) -> int:
         n = len(points);ans=0
+        grid = [[0]*52 for _ in range(52)]
+        for x,y in points:
+            grid[x+1][y+1]=1
+        ps = [[0]*52 for _ in range(52)]
+        for i in range(1,52):
+            for j in range(1,52):
+                ps[i][j] = grid[i][j]+ ps[i-1][j]+ ps[i][j-1] - ps[i-1][j-1]
+        def calc(x1,y1,x2,y2):
+            return ps[x2][y2] - ps[x1-1][y2]-ps[x2][y1-1] + ps[x1-1][y1-1]
+        ans = 0
         for i in range(n):
             for j in range(n):
-                if i==j:continue
-                if points[i][0]<=points[j][0] and points[i][1]>=points[j][1]:
-                    val = True
-                    for k in range(n):
-                        if k==i or k==j:continue
-                        xk,yk= points[k]
-                        if points[i][0]<=xk<=points[j][0] and points[j][1]<=yk<=points[i][1]:
-                            val = False
-                            break
-                    if val:
-                        ans+=1
+                x1,y1 = points[i];x2,y2 = points[j]
+                if x1<=x2 and y1>=y2:
+                    ans+= (1 if calc(x1+1,y2+1,x2+1,y1+1)==2 else 0)
         return ans
