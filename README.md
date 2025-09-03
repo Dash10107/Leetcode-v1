@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/Dash10107/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Dash10107/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Dash10107/Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [1418-fair-distribution-of-cookies](https://github.com/Dash10107/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Dash10107/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/Dash10107/Leetcode/tree/master/1428-jump-game-iii) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Dash10107/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Dash10107/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0679-24-game](https://github.com/Dash10107/Leetcode/tree/master/0679-24-game) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Dash10107/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1418-fair-distribution-of-cookies](https://github.com/Dash10107/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/Dash10107/Leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1906-maximize-score-after-n-operations](https://github.com/Dash10107/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Dash10107/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Dash10107/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/Dash10107/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Dash10107/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1418-fair-distribution-of-cookies](https://github.com/Dash10107/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Dash10107/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1466-jump-game-v](https://github.com/Dash10107/Leetcode/tree/master/1466-jump-game-v) |
 | [1522-stone-game-iii](https://github.com/Dash10107/Leetcode/tree/master/1522-stone-game-iii) |
@@ -1241,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1220-smallest-sufficient-team](https://github.com/Dash10107/Leetcode/tree/master/1220-smallest-sufficient-team) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Dash10107/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Dash10107/Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [1418-fair-distribution-of-cookies](https://github.com/Dash10107/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Dash10107/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/Dash10107/Leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1873-longest-nice-substring](https://github.com/Dash10107/Leetcode/tree/master/1873-longest-nice-substring) |
@@ -1445,6 +1449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Dash10107/Leetcode/tree/master/0464-can-i-win) |
 | [1220-smallest-sufficient-team](https://github.com/Dash10107/Leetcode/tree/master/1220-smallest-sufficient-team) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Dash10107/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1418-fair-distribution-of-cookies](https://github.com/Dash10107/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/Dash10107/Leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1906-maximize-score-after-n-operations](https://github.com/Dash10107/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 ## Data Stream
