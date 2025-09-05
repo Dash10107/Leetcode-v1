@@ -1261,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Dash10107/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dash10107/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Dash10107/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Dash10107/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Dash10107/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dash10107/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/Dash10107/Leetcode/tree/master/3443-maximum-total-reward-using-operations-ii) |
@@ -1326,6 +1327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Dash10107/Leetcode/tree/master/1086-divisor-game) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Dash10107/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dash10107/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Dash10107/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Game Theory
 |  |
 | ------- |
@@ -1384,6 +1386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Dash10107/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dash10107/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2390-naming-a-company](https://github.com/Dash10107/Leetcode/tree/master/2390-naming-a-company) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Dash10107/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Dash10107/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Dash10107/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Dash10107/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
