@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Dash10107/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dash10107/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Dash10107/Leetcode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Dash10107/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dash10107/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dash10107/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/Dash10107/Leetcode/tree/master/0221-maximal-square) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dash10107/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Dash10107/Leetcode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/Dash10107/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Dash10107/Leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Dash10107/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Dash10107/Leetcode/tree/master/0279-perfect-squares) |
@@ -1402,6 +1404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Dash10107/Leetcode/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/Dash10107/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1212-sequential-digits](https://github.com/Dash10107/Leetcode/tree/master/1212-sequential-digits) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Dash10107/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -1431,6 +1434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Dash10107/Leetcode/tree/master/0204-count-primes) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Dash10107/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1906-maximize-score-after-n-operations](https://github.com/Dash10107/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Dash10107/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
