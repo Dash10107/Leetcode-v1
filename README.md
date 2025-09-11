@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3104-happy-students](https://github.com/Dash10107/Leetcode/tree/master/3104-happy-students) |
 | [3194-find-words-containing-character](https://github.com/Dash10107/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3221-find-the-peaks](https://github.com/Dash10107/Leetcode/tree/master/3221-find-the-peaks) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dash10107/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Dash10107/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Dash10107/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -1433,6 +1434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Dash10107/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3104-happy-students](https://github.com/Dash10107/Leetcode/tree/master/3104-happy-students) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Dash10107/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3221-find-the-peaks](https://github.com/Dash10107/Leetcode/tree/master/3221-find-the-peaks) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Dash10107/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Dash10107/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Dash10107/Leetcode/tree/master/3398-make-a-square-with-the-same-color) |
