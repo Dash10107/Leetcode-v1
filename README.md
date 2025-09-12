@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dash10107/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/Dash10107/Leetcode/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dash10107/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3462-vowels-game-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/Dash10107/Leetcode/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3541-report-spam-message](https://github.com/Dash10107/Leetcode/tree/master/3541-report-spam-message) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Dash10107/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Dash10107/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Dash10107/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3373-maximum-prime-difference](https://github.com/Dash10107/Leetcode/tree/master/3373-maximum-prime-difference) |
+| [3462-vowels-game-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Dash10107/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Dash10107/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Dash10107/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1372,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1362-airplane-seat-assignment-probability](https://github.com/Dash10107/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dash10107/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Dash10107/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
@@ -1381,6 +1384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Dash10107/Leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Dash10107/Leetcode/tree/master/1522-stone-game-iii) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Dash10107/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [3462-vowels-game-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Dash10107/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Simulation
 |  |
