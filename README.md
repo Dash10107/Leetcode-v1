@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Dash10107/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Dash10107/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1219-longest-well-performing-interval](https://github.com/Dash10107/Leetcode/tree/master/1219-longest-well-performing-interval) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Dash10107/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1294-range-frequency-queries](https://github.com/Dash10107/Leetcode/tree/master/1294-range-frequency-queries) |
 | [1297-maximum-number-of-balloons](https://github.com/Dash10107/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Dash10107/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Dash10107/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Dash10107/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/Dash10107/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Dash10107/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1283-reformat-date](https://github.com/Dash10107/Leetcode/tree/master/1283-reformat-date) |
 | [1297-maximum-number-of-balloons](https://github.com/Dash10107/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Dash10107/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
