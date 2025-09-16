@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dash10107/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dash10107/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Dash10107/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0173-binary-search-tree-iterator](https://github.com/Dash10107/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/Dash10107/Leetcode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Dash10107/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Dash10107/Leetcode/tree/master/0456-132-pattern) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Dash10107/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0384-shuffle-an-array](https://github.com/Dash10107/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0816-design-hashset](https://github.com/Dash10107/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Dash10107/Leetcode/tree/master/0817-design-hashmap) |
@@ -1140,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Dash10107/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0101-symmetric-tree](https://github.com/Dash10107/Leetcode/tree/master/0101-symmetric-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Dash10107/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Dash10107/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Dash10107/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dash10107/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1250,6 +1253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Dash10107/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0101-symmetric-tree](https://github.com/Dash10107/Leetcode/tree/master/0101-symmetric-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Dash10107/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Dash10107/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Dash10107/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dash10107/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1469,6 +1473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Dash10107/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/Dash10107/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dash10107/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Queue
@@ -1559,4 +1564,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/Dash10107/Leetcode/tree/master/0398-random-pick-index) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Dash10107/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
