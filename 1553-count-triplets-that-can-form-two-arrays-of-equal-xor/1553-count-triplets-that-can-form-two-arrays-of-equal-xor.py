@@ -1,13 +1,10 @@
 class Solution:
     def countTriplets(self, arr: List[int]) -> int:
         ans = 0;n=len(arr)
-        xa,xb = 0,0
+        pref = [0]*(n+1)
+        for i in range(n):pref[i+1]=pref[i]^arr[i]
         for i in range(n):
-            xa =0
-            for j in range(i+1,n):
-                xa ^= arr[j-1]
-                xb = 0
-                for k in range(j,n):
-                    xb ^= arr[k]
-                    if xa==xb:ans+=1
+            for k in range(i+1,n+1):
+                if pref[k]==pref[i]:
+                    ans+= k-(i+1)
         return ans
