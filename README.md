@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-jump-game-v](https://github.com/Dash10107/Leetcode/tree/master/1466-jump-game-v) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Dash10107/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/Dash10107/Leetcode/tree/master/1499-maximum-performance-of-a-team) |
+| [1503-reducing-dishes](https://github.com/Dash10107/Leetcode/tree/master/1503-reducing-dishes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Dash10107/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Dash10107/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1522-stone-game-iii](https://github.com/Dash10107/Leetcode/tree/master/1522-stone-game-iii) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-fair-distribution-of-cookies](https://github.com/Dash10107/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Dash10107/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1466-jump-game-v](https://github.com/Dash10107/Leetcode/tree/master/1466-jump-game-v) |
+| [1503-reducing-dishes](https://github.com/Dash10107/Leetcode/tree/master/1503-reducing-dishes) |
 | [1522-stone-game-iii](https://github.com/Dash10107/Leetcode/tree/master/1522-stone-game-iii) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/Dash10107/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1559-cherry-pickup-ii](https://github.com/Dash10107/Leetcode/tree/master/1559-cherry-pickup-ii) |
@@ -940,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-video-stitching](https://github.com/Dash10107/Leetcode/tree/master/1081-video-stitching) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Dash10107/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/Dash10107/Leetcode/tree/master/1499-maximum-performance-of-a-team) |
+| [1503-reducing-dishes](https://github.com/Dash10107/Leetcode/tree/master/1503-reducing-dishes) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Dash10107/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Dash10107/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Dash10107/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -1005,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-jump-game-v](https://github.com/Dash10107/Leetcode/tree/master/1466-jump-game-v) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Dash10107/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/Dash10107/Leetcode/tree/master/1499-maximum-performance-of-a-team) |
+| [1503-reducing-dishes](https://github.com/Dash10107/Leetcode/tree/master/1503-reducing-dishes) |
 | [1539-diagonal-traverse-ii](https://github.com/Dash10107/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dash10107/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Dash10107/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
