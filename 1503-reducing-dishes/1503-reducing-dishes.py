@@ -1,12 +1,10 @@
 class Solution:
     def maxSatisfaction(self, sat: List[int]) -> int:
-        sat.sort()
-        n = len(sat)
-        @cache
-        def func(i,c):
-            if i==n:
-                return 0
-            nottake = func(i+1,c)
-            take = sat[i]*c + func(i+1,c+1)
-            return max(nottake,take)
-        return func(0,1)
+        sat.sort(reverse=True)
+        s=0;ans=0
+        for i in sat:
+            if s+i>0:
+                ans+= i+s
+                s+=i
+        return ans
+        
