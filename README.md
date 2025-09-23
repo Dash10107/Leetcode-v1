@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/Dash10107/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0816-design-hashset](https://github.com/Dash10107/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Dash10107/Leetcode/tree/master/0817-design-hashmap) |
+| [0859-design-circular-deque](https://github.com/Dash10107/Leetcode/tree/master/0859-design-circular-deque) |
 | [0931-maximum-frequency-stack](https://github.com/Dash10107/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/Dash10107/Leetcode/tree/master/0937-online-stock-span) |
 | [1294-range-frequency-queries](https://github.com/Dash10107/Leetcode/tree/master/1294-range-frequency-queries) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Dash10107/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Dash10107/Leetcode/tree/master/0817-design-hashmap) |
 | [0833-bus-routes](https://github.com/Dash10107/Leetcode/tree/master/0833-bus-routes) |
+| [0859-design-circular-deque](https://github.com/Dash10107/Leetcode/tree/master/0859-design-circular-deque) |
 | [0869-similar-string-groups](https://github.com/Dash10107/Leetcode/tree/master/0869-similar-string-groups) |
 | [0891-score-after-flipping-matrix](https://github.com/Dash10107/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Dash10107/Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Dash10107/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0816-design-hashset](https://github.com/Dash10107/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Dash10107/Leetcode/tree/master/0817-design-hashmap) |
+| [0859-design-circular-deque](https://github.com/Dash10107/Leetcode/tree/master/0859-design-circular-deque) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dash10107/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Dash10107/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Hash Function
@@ -1555,6 +1558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/Dash10107/Leetcode/tree/master/0859-design-circular-deque) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Dash10107/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dash10107/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Dash10107/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
