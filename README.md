@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/Dash10107/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/Dash10107/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dash10107/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0606-construct-string-from-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0640-solve-the-equation](https://github.com/Dash10107/Leetcode/tree/master/0640-solve-the-equation) |
 | [0647-palindromic-substrings](https://github.com/Dash10107/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/Dash10107/Leetcode/tree/master/0664-strange-printer) |
@@ -1240,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Dash10107/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/Dash10107/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dash10107/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -1276,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/Dash10107/Leetcode/tree/master/0514-freedom-trail) |
 | [0543-diameter-of-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Dash10107/Leetcode/tree/master/0547-number-of-provinces) |
+| [0606-construct-string-from-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dash10107/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
@@ -1368,6 +1371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Dash10107/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/Dash10107/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dash10107/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
