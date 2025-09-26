@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Dash10107/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Dash10107/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Dash10107/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/Dash10107/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/Dash10107/Leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Dash10107/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Dash10107/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -964,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/Dash10107/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Dash10107/Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Dash10107/Leetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/Dash10107/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Dash10107/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Dash10107/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Dash10107/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -1014,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/Dash10107/Leetcode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3055-maximum-odd-binary-number](https://github.com/Dash10107/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dash10107/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/Dash10107/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/Dash10107/Leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dash10107/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dash10107/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1081,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2892-check-if-array-is-good](https://github.com/Dash10107/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3104-happy-students](https://github.com/Dash10107/Leetcode/tree/master/3104-happy-students) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dash10107/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3262-find-polygon-with-the-largest-perimeter](https://github.com/Dash10107/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Dash10107/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Dash10107/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Dash10107/Leetcode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
