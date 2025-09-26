@@ -823,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-fair-distribution-of-cookies](https://github.com/Dash10107/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Dash10107/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1466-jump-game-v](https://github.com/Dash10107/Leetcode/tree/master/1466-jump-game-v) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1503-reducing-dishes](https://github.com/Dash10107/Leetcode/tree/master/1503-reducing-dishes) |
 | [1522-stone-game-iii](https://github.com/Dash10107/Leetcode/tree/master/1522-stone-game-iii) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/Dash10107/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
@@ -1274,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Dash10107/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Dash10107/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Dash10107/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Dash10107/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Dash10107/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -1325,6 +1327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/Dash10107/Leetcode/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Dash10107/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Dash10107/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Dash10107/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Dash10107/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2103-find-all-groups-of-farmland](https://github.com/Dash10107/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
@@ -1423,6 +1426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Dash10107/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Dash10107/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Dash10107/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Dash10107/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dash10107/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
