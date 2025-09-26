@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Dash10107/Leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dash10107/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dash10107/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Dash10107/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Dash10107/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Dash10107/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Dash10107/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Dash10107/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/Dash10107/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dash10107/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0611-valid-triangle-number](https://github.com/Dash10107/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/Dash10107/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dash10107/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Dash10107/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -973,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/Dash10107/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Dash10107/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Dash10107/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0611-valid-triangle-number](https://github.com/Dash10107/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Dash10107/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Dash10107/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Dash10107/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -1037,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Dash10107/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Dash10107/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dash10107/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Dash10107/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Dash10107/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/Dash10107/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Dash10107/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -1204,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Dash10107/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/Dash10107/Leetcode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dash10107/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/Dash10107/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Dash10107/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/Dash10107/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Dash10107/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
