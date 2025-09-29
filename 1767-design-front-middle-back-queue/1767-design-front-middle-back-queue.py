@@ -1,31 +1,48 @@
 class FrontMiddleBackQueue:
 
     def __init__(self):
-        self.arr = deque()
+        self.front = deque()
+        self.back = deque()
 
     def pushFront(self, val: int) -> None:
-        self.arr.appendleft(val)
+        self.front.appendleft(val)
+        self.rebalance()
 
     def pushMiddle(self, val: int) -> None:
-        mid = len(self.arr)//2
-        self.arr.insert(mid,val)
+        if len(self.front)>len(self.back):
+            self.back.appendleft(self.front.pop())
+        self.front.append(val)
+        self.rebalance() 
 
     def pushBack(self, val: int) -> None:
-        self.arr.append(val)
+        self.back.append(val)
+        self.rebalance()
 
     def popFront(self) -> int:
-        if not self.arr:return -1
-        return self.arr.popleft()
+        if not self.front :return -1
+        t= self.front.popleft()
+        self.rebalance()
+        return t
 
     def popMiddle(self) -> int:
-        if not self.arr:return -1
-        temp= self.arr[(len(self.arr)-1)//2]
-        del  self.arr[(len(self.arr)-1)//2]
-        return temp
+        if not self.front:return -1
+        t = self.front.pop()
+        self.rebalance()
+        return t
+
     def popBack(self) -> int:
-        if not self.arr:return -1
-        return self.arr.pop()
-        
+        if not self.front and not self.back:return -1
+        if self.back:
+            t =  self.back.pop()
+        else:
+            t = self.front.pop()
+        self.rebalance()
+        return t
+    def rebalance(self):
+        if len(self.front)<len(self.back):
+            self.front.append(self.back.popleft())
+        elif len(self.front)>len(self.back)+1:
+            self.back.appendleft(self.front.pop())
 
 
 # Your FrontMiddleBackQueue object will be instantiated and called as such:
