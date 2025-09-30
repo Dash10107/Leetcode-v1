@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-naming-a-company](https://github.com/Dash10107/Leetcode/tree/master/2390-naming-a-company) |
 | [2427-first-letter-to-appear-twice](https://github.com/Dash10107/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2429-design-a-food-rating-system](https://github.com/Dash10107/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dash10107/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2444-longest-ideal-subsequence](https://github.com/Dash10107/Leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dash10107/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2487-optimal-partition-of-string](https://github.com/Dash10107/Leetcode/tree/master/2487-optimal-partition-of-string) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2429-design-a-food-rating-system](https://github.com/Dash10107/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Dash10107/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dash10107/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Dash10107/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Dash10107/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Dash10107/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -1026,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/Dash10107/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Dash10107/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Dash10107/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dash10107/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Dash10107/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2487-optimal-partition-of-string](https://github.com/Dash10107/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Dash10107/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -1096,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Dash10107/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Dash10107/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Dash10107/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dash10107/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Dash10107/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2505-number-of-good-paths](https://github.com/Dash10107/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Dash10107/Leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
@@ -1141,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2329-maximum-product-after-k-increments](https://github.com/Dash10107/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Dash10107/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2429-design-a-food-rating-system](https://github.com/Dash10107/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dash10107/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Dash10107/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Dash10107/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
@@ -1627,6 +1632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Dash10107/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Dash10107/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Dash10107/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dash10107/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2886-faulty-keyboard](https://github.com/Dash10107/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Dash10107/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Dash10107/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
