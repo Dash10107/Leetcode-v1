@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Dash10107/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Dash10107/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2390-naming-a-company](https://github.com/Dash10107/Leetcode/tree/master/2390-naming-a-company) |
+| [2406-decode-the-message](https://github.com/Dash10107/Leetcode/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/Dash10107/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2429-design-a-food-rating-system](https://github.com/Dash10107/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dash10107/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Dash10107/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2390-naming-a-company](https://github.com/Dash10107/Leetcode/tree/master/2390-naming-a-company) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Dash10107/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2406-decode-the-message](https://github.com/Dash10107/Leetcode/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/Dash10107/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2429-design-a-food-rating-system](https://github.com/Dash10107/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2444-longest-ideal-subsequence](https://github.com/Dash10107/Leetcode/tree/master/2444-longest-ideal-subsequence) |
