@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/Dash10107/Leetcode/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/Dash10107/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0971-shortest-bridge](https://github.com/Dash10107/Leetcode/tree/master/0971-shortest-bridge) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Dash10107/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0993-tallest-billboard](https://github.com/Dash10107/Leetcode/tree/master/0993-tallest-billboard) |
 | [1006-vowel-spellchecker](https://github.com/Dash10107/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/Dash10107/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -1131,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Dash10107/Leetcode/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Dash10107/Leetcode/tree/master/0807-custom-sort-string) |
 | [0900-reordered-power-of-2](https://github.com/Dash10107/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Dash10107/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1014-k-closest-points-to-origin](https://github.com/Dash10107/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Dash10107/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1710,6 +1712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Dash10107/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0640-solve-the-equation](https://github.com/Dash10107/Leetcode/tree/master/0640-solve-the-equation) |
 | [0682-baseball-game](https://github.com/Dash10107/Leetcode/tree/master/0682-baseball-game) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Dash10107/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Dash10107/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Dash10107/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/Dash10107/Leetcode/tree/master/1642-water-bottles) |
@@ -1795,6 +1798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Dash10107/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/Dash10107/Leetcode/tree/master/0859-design-circular-deque) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Dash10107/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Dash10107/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dash10107/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1767-design-front-middle-back-queue](https://github.com/Dash10107/Leetcode/tree/master/1767-design-front-middle-back-queue) |
