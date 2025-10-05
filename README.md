@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/Dash10107/Leetcode/tree/master/0753-open-the-lock) |
 | [0816-design-hashset](https://github.com/Dash10107/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Dash10107/Leetcode/tree/master/0817-design-hashmap) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Dash10107/Leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0830-largest-triangle-area](https://github.com/Dash10107/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0833-bus-routes](https://github.com/Dash10107/Leetcode/tree/master/0833-bus-routes) |
 | [0859-design-circular-deque](https://github.com/Dash10107/Leetcode/tree/master/0859-design-circular-deque) |
@@ -973,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Dash10107/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/Dash10107/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/Dash10107/Leetcode/tree/master/0695-max-area-of-island) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Dash10107/Leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0891-score-after-flipping-matrix](https://github.com/Dash10107/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Dash10107/Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0945-snakes-and-ladders](https://github.com/Dash10107/Leetcode/tree/master/0945-snakes-and-ladders) |
@@ -1051,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Dash10107/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dash10107/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-reorganize-string](https://github.com/Dash10107/Leetcode/tree/master/0778-reorganize-string) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Dash10107/Leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0891-score-after-flipping-matrix](https://github.com/Dash10107/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Dash10107/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1018-largest-perimeter-triangle](https://github.com/Dash10107/Leetcode/tree/master/1018-largest-perimeter-triangle) |
