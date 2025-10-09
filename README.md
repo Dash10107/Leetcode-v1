@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Dash10107/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dash10107/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Dash10107/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Dash10107/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Dash10107/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Dash10107/Leetcode/tree/master/3827-implement-router) |
 ## Linked List
@@ -1049,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/Dash10107/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Dash10107/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Dash10107/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Dash10107/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Greedy
 |  |
 | ------- |
@@ -1749,6 +1751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-find-mirror-score-of-a-string](https://github.com/Dash10107/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Dash10107/Leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dash10107/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Dash10107/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Union Find
 |  |
 | ------- |
