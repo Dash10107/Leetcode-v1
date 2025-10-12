@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Dash10107/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Dash10107/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Dash10107/Leetcode/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Dash10107/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Linked List
 |  |
 | ------- |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-count-special-subsequences](https://github.com/Dash10107/Leetcode/tree/master/3699-count-special-subsequences) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Dash10107/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Dash10107/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Dash10107/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
 | ------- |
@@ -942,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3659-count-paths-with-the-given-xor-value](https://github.com/Dash10107/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Dash10107/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Dash10107/Leetcode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Dash10107/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1652,6 +1655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Dash10107/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Dash10107/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/Dash10107/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Dash10107/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1783,6 +1787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/Dash10107/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3631-count-k-reducible-numbers-less-than-n](https://github.com/Dash10107/Leetcode/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Dash10107/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Dash10107/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Enumeration
 |  |
 | ------- |
@@ -1890,6 +1895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/Dash10107/Leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1906-maximize-score-after-n-operations](https://github.com/Dash10107/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Dash10107/Leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Dash10107/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Data Stream
 |  |
 | ------- |
