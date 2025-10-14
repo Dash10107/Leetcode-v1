@@ -1,4 +1,12 @@
 class Solution:
     def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
-        points.sort(key=lambda x:sqrt(x[0]**2+x[1]**2))
-        return points[:k]
+        heap = []
+        for x,y in points:
+            e= sqrt((x**2 + y**2))
+            heappush(heap,(e,x,y))
+        ans = []
+        while k:
+            e,x,y = heappop(heap)
+            ans.append((x,y))
+            k-=1
+        return ans
