@@ -5,5 +5,5 @@ class Solution:
             for j in range(len(board)):
                 ele = board[i][j]
                 if ele != '.':
-                    ans+=[(i,ele),(ele,j),(ele,i//3,j//3)]
+                    ans+=[(ele,i),(j,ele),(ele,i//3,j//3)]
         return len(ans)==len(set(ans))
