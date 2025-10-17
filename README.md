@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/Dash10107/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/Dash10107/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Dash10107/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/Dash10107/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Dash10107/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1219-longest-well-performing-interval](https://github.com/Dash10107/Leetcode/tree/master/1219-longest-well-performing-interval) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Dash10107/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Dash10107/Leetcode/tree/master/1127-last-stone-weight) |
 | [1130-last-stone-weight-ii](https://github.com/Dash10107/Leetcode/tree/master/1130-last-stone-weight-ii) |
 | [1137-height-checker](https://github.com/Dash10107/Leetcode/tree/master/1137-height-checker) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/Dash10107/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Dash10107/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1219-longest-well-performing-interval](https://github.com/Dash10107/Leetcode/tree/master/1219-longest-well-performing-interval) |
 | [1220-smallest-sufficient-team](https://github.com/Dash10107/Leetcode/tree/master/1220-smallest-sufficient-team) |
@@ -1026,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-shortest-path-to-get-all-keys](https://github.com/Dash10107/Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0945-snakes-and-ladders](https://github.com/Dash10107/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/Dash10107/Leetcode/tree/master/0971-shortest-bridge) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/Dash10107/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Dash10107/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1380-number-of-closed-islands](https://github.com/Dash10107/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Dash10107/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1063,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Dash10107/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Dash10107/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/Dash10107/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1145-number-of-submatrices-that-sum-to-target](https://github.com/Dash10107/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1219-longest-well-performing-interval](https://github.com/Dash10107/Leetcode/tree/master/1219-longest-well-performing-interval) |
 | [1240-stone-game-ii](https://github.com/Dash10107/Leetcode/tree/master/1240-stone-game-ii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Dash10107/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
