@@ -646,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Dash10107/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/Dash10107/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Dash10107/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dash10107/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dash10107/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/Dash10107/Leetcode/tree/master/3396-valid-word) |
@@ -940,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2510-maximum-deletions-on-a-string](https://github.com/Dash10107/Leetcode/tree/master/2510-maximum-deletions-on-a-string) |
 | [2755-extra-characters-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Dash10107/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Dash10107/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dash10107/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Dash10107/Leetcode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dash10107/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -1680,6 +1682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dash10107/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Dash10107/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Dash10107/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Dash10107/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Dash10107/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dash10107/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/Dash10107/Leetcode/tree/master/3443-maximum-total-reward-using-operations-ii) |
@@ -1926,6 +1929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-fair-distribution-of-cookies](https://github.com/Dash10107/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/Dash10107/Leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1906-maximize-score-after-n-operations](https://github.com/Dash10107/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Dash10107/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Dash10107/Leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Dash10107/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Data Stream
