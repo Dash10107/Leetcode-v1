@@ -653,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2701-subsequence-with-the-minimum-score](https://github.com/Dash10107/Leetcode/tree/master/2701-subsequence-with-the-minimum-score) |
 | [2727-number-of-senior-citizens](https://github.com/Dash10107/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Dash10107/Leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [2881-split-strings-by-separator](https://github.com/Dash10107/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/Dash10107/Leetcode/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -1160,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Dash10107/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Dash10107/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Dash10107/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Dash10107/Leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/Dash10107/Leetcode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3055-maximum-odd-binary-number](https://github.com/Dash10107/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dash10107/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
