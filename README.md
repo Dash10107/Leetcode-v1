@@ -1483,6 +1483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-distribute-coins-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Dash10107/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1035-cousins-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/Dash10107/Leetcode/tree/master/1040-maximum-binary-tree-ii) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Dash10107/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Dash10107/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -1540,6 +1541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-distribute-coins-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Dash10107/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1035-cousins-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Dash10107/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Dash10107/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Dash10107/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -1609,6 +1611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Dash10107/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/Dash10107/Leetcode/tree/master/0971-shortest-bridge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Dash10107/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1380-number-of-closed-islands](https://github.com/Dash10107/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Dash10107/Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
@@ -1667,6 +1670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-distribute-coins-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Dash10107/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1035-cousins-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1040-maximum-binary-tree-ii](https://github.com/Dash10107/Leetcode/tree/master/1040-maximum-binary-tree-ii) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Dash10107/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Dash10107/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
