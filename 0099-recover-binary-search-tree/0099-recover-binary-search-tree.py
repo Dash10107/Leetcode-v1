@@ -6,17 +6,20 @@
 #         self.right = right
 class Solution:
     def recoverTree(self, root: Optional[TreeNode]) -> None:
-        self.temp = []
+        first,sec=None,None
+        prev=None
         def dfs(node):
-            if node:
-                dfs(node.left)
-                self.temp.append(node)
-                dfs(node.right)
-            return
+            nonlocal first,sec,prev
+            if node is None:return
+            dfs(node.left)
+            if prev and prev.val>node.val:
+                if not first:first=prev
+                sec=node
+            prev=node
+            dfs(node.right)
         dfs(root)
-        srt = sorted(n.val for n in self.temp)
-        for i in range(len(srt)):
-            self.temp[i].val=srt[i]
+        temp = first.val
+        first.val=sec.val;sec.val=temp
         """
         Do not return anything, modify root in-place instead.
         """
