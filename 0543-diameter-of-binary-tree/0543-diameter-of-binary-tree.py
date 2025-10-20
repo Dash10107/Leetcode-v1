@@ -5,15 +5,13 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def __init__(self):
-        self.diameter = 0
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        self.height(root)
-        return self.diameter-1
-    def height(self,root):
-        if not root:return 0
-        left = self.height(root.left)
-        right = self.height(root.right)
-        dia = left+right+1
-        self.diameter = max(dia,self.diameter)
-        return max(left,right)+1
+        self.ans=0
+        def dia(node):
+            if not node:return 0
+            left = dia(node.left)
+            right=dia(node.right)
+            self.ans=max(self.ans,left+right+1)
+            return max(left,right)+1
+        temp = dia(root)
+        return self.ans-1
