@@ -9,15 +9,12 @@ class Solution:
         if not root:
             return []
         q = deque([root])
-        ans = []
+        ans=[]
         while q:
-            l = len(q)
-            for i in range(l):
+            n = len(q)
+            for i in range(n):
                 node = q.popleft()
-                if i==l-1:
-                    ans.append(node.val)
-                if node.left:
-                    q.append(node.left)
-                if node.right:
-                    q.append(node.right)
+                if i==n-1:ans.append(node.val)
+                if node.left:q.append(node.left)
+                if node.right:q.append(node.right)
         return ans
