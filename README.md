@@ -1477,6 +1477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0690-employee-importance](https://github.com/Dash10107/Leetcode/tree/master/0690-employee-importance) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Dash10107/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Dash10107/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/Dash10107/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
@@ -1537,6 +1538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0690-employee-importance](https://github.com/Dash10107/Leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Dash10107/Leetcode/tree/master/0695-max-area-of-island) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Dash10107/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/Dash10107/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0869-similar-string-groups](https://github.com/Dash10107/Leetcode/tree/master/0869-similar-string-groups) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1610,6 +1612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Dash10107/Leetcode/tree/master/0695-max-area-of-island) |
 | [0753-open-the-lock](https://github.com/Dash10107/Leetcode/tree/master/0753-open-the-lock) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Dash10107/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Dash10107/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0833-bus-routes](https://github.com/Dash10107/Leetcode/tree/master/0833-bus-routes) |
 | [0869-similar-string-groups](https://github.com/Dash10107/Leetcode/tree/master/0869-similar-string-groups) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
