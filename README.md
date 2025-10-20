@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/Dash10107/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Dash10107/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Dash10107/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3795-zero-array-transformation-iv](https://github.com/Dash10107/Leetcode/tree/master/3795-zero-array-transformation-iv) |
 | [3797-design-spreadsheet](https://github.com/Dash10107/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Dash10107/Leetcode/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Dash10107/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -989,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3659-count-paths-with-the-given-xor-value](https://github.com/Dash10107/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Dash10107/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Dash10107/Leetcode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
+| [3795-zero-array-transformation-iv](https://github.com/Dash10107/Leetcode/tree/master/3795-zero-array-transformation-iv) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Dash10107/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Monotonic Stack
 |  |
