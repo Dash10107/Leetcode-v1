@@ -1472,6 +1472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dash10107/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Dash10107/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Dash10107/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Dash10107/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -1529,6 +1530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dash10107/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Dash10107/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dash10107/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/Dash10107/Leetcode/tree/master/0386-lexicographical-numbers) |
@@ -1676,6 +1678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dash10107/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Dash10107/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Dash10107/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Dash10107/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
