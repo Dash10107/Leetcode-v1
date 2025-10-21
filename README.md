@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Dash10107/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Dash10107/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1522-stone-game-iii](https://github.com/Dash10107/Leetcode/tree/master/1522-stone-game-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Dash10107/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-diagonal-traverse-ii](https://github.com/Dash10107/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dash10107/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Dash10107/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -1104,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Dash10107/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/Dash10107/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Dash10107/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Dash10107/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Dash10107/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/Dash10107/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Dash10107/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -1396,6 +1398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/Dash10107/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Dash10107/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Dash10107/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Dash10107/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dash10107/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dash10107/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dash10107/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
