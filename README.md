@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Dash10107/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Dash10107/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1447-jump-game-iv](https://github.com/Dash10107/Leetcode/tree/master/1447-jump-game-iv) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Dash10107/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dash10107/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Dash10107/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Dash10107/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/Dash10107/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Dash10107/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Dash10107/Leetcode/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Dash10107/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Dash10107/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1508-longest-happy-prefix](https://github.com/Dash10107/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Dash10107/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -1398,6 +1400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/Dash10107/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Dash10107/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Dash10107/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Dash10107/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Dash10107/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dash10107/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dash10107/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
