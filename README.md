@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Dash10107/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Dash10107/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Dash10107/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Dash10107/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3646-sum-of-good-subsequences](https://github.com/Dash10107/Leetcode/tree/master/3646-sum-of-good-subsequences) |
 | [3647-zero-array-transformation-iii](https://github.com/Dash10107/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Dash10107/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -1122,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Dash10107/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Dash10107/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Dash10107/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Dash10107/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Dash10107/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Dash10107/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Dash10107/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -1289,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dash10107/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Dash10107/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Dash10107/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Dash10107/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Dash10107/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Dash10107/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Dash10107/Leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
@@ -1415,6 +1418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Dash10107/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Dash10107/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Dash10107/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Dash10107/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Dash10107/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Dash10107/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Dash10107/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -1462,6 +1466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Dash10107/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Dash10107/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Dash10107/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dash10107/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Dash10107/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Dash10107/Leetcode/tree/master/3827-implement-router) |
