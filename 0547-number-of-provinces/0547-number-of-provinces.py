@@ -1,20 +1,21 @@
 class Solution:
     def findCircleNum(self, mat: List[List[int]]) -> int:
         n = len(mat)
-        adj = defaultdict(list)
-        for i in range(n):
-            for j in range(n):
-                if mat[i][j]==1 and i!=j:
-                    adj[i].append(j)
-                    adj[j].append(i)
         vis = set()
-        def dfs(node):
+        
+        def bfs(node):
+            q = deque([node])
             vis.add(node)
-            for neg in adj[node]:
-                if not neg in vis:dfs(neg)
-        ans=0
+            while q:
+                cur = q.popleft()
+                for nei in range(n):
+                    if mat[cur][nei] == 1 and nei not in vis:
+                        vis.add(nei)
+                        q.append(nei)
+        
+        ans = 0
         for i in range(n):
             if i not in vis:
-                ans+=1
-                dfs(i)
+                ans += 1
+                bfs(i)
         return ans
