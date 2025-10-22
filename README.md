@@ -1574,6 +1574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Dash10107/Leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Dash10107/Leetcode/tree/master/0695-max-area-of-island) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Dash10107/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0801-is-graph-bipartite](https://github.com/Dash10107/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0863-sum-of-distances-in-tree](https://github.com/Dash10107/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0869-similar-string-groups](https://github.com/Dash10107/Leetcode/tree/master/0869-similar-string-groups) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1650,6 +1651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/Dash10107/Leetcode/tree/master/0753-open-the-lock) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Dash10107/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Dash10107/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0801-is-graph-bipartite](https://github.com/Dash10107/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0833-bus-routes](https://github.com/Dash10107/Leetcode/tree/master/0833-bus-routes) |
 | [0869-similar-string-groups](https://github.com/Dash10107/Leetcode/tree/master/0869-similar-string-groups) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1834,6 +1836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Dash10107/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dash10107/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Dash10107/Leetcode/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Dash10107/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0863-sum-of-distances-in-tree](https://github.com/Dash10107/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1039-find-the-town-judge](https://github.com/Dash10107/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Dash10107/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -1924,6 +1927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Dash10107/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Dash10107/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Dash10107/Leetcode/tree/master/0695-max-area-of-island) |
+| [0801-is-graph-bipartite](https://github.com/Dash10107/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0869-similar-string-groups](https://github.com/Dash10107/Leetcode/tree/master/0869-similar-string-groups) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Dash10107/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1380-number-of-closed-islands](https://github.com/Dash10107/Leetcode/tree/master/1380-number-of-closed-islands) |
