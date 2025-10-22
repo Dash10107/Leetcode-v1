@@ -1,26 +1,16 @@
 class Solution:
-    def maxFrequency(self, nums: List[int], k: int, num_ops: int) -> int:
-        items = sorted(collections.Counter(nums).items(), key=lambda x: x[0])
+    def maxFrequency(self, nums: List[int], k: int, numOperations: int) -> int:
+        ans = 1
+        numscounter = Counter(nums)
+        nums.sort()
+        for i in range(len(nums)):
+            ans = max(ans, numscounter[nums[i]])
+            ind = bisect_right(nums, nums[i]+2*k)
+            ans = max(ans, min(ind-i,numOperations))
+            ind = bisect_left(nums, nums[i]-2*k)
+            ans = max(ans, min(i-ind+1,numOperations))
+            ind1 = bisect_right(nums, nums[i]+k)
+            ind2 = bisect_left(nums, nums[i]-k)
+            ans = max(ans, min(ind1-i+i-ind2,numOperations+numscounter[nums[i]]))
+        return ans
         
-        # Mode element is present in nums
-        max_freq = total_cnt = items[0][1]
-        left = right = 0
-        for i, (num, cnt) in enumerate(items):
-            while right + 1 < len(items) and num + k >= items[right + 1][0]:
-                right += 1
-                total_cnt += items[right][1]
-            while left < i and items[left][0] + k < num:
-                total_cnt -= items[left][1]
-                left += 1
-            max_freq = max(max_freq, cnt + min(num_ops, total_cnt - cnt))
-
-        total_cnt = items[0][1]
-        right = 0
-        for i, (num, cnt) in enumerate(items):
-            while right + 1 < len(items) and num + 2 * k >= items[right + 1][0]:
-                right += 1
-                total_cnt += items[right][1]
-            max_freq = max(max_freq, min(num_ops, total_cnt))
-            total_cnt -= cnt
-
-        return max_freq
