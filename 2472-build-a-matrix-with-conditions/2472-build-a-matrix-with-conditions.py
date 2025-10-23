@@ -19,12 +19,7 @@ class Solution:
             return topo if len(topo)==k else []
         rtopo = topos(g1);ctopo=topos(g2)
         if len(rtopo)==0 or len(ctopo)==0:return []
-        def fill(topo):
-            c = Counter()
-            for u in topo:c[u]=True
-            for u in range(1,k+1):
-                if u not in c:topo.append(u)
-        fill(rtopo);fill(ctopo)
+
         mat = [[0]*k for _ in range(k)]
         colInd = Counter()
         for j in range(k):colInd[ctopo[j]]=j
