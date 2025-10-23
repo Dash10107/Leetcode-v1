@@ -1528,6 +1528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Dash10107/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Dash10107/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Dash10107/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Dash10107/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Dash10107/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Dash10107/Leetcode/tree/master/1731-even-odd-tree) |
@@ -1596,6 +1597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Dash10107/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Dash10107/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Dash10107/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Dash10107/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dash10107/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/Dash10107/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/Dash10107/Leetcode/tree/master/1428-jump-game-iii) |
@@ -1672,6 +1674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Dash10107/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Dash10107/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1380-number-of-closed-islands](https://github.com/Dash10107/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Dash10107/Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Dash10107/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -1740,6 +1743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Dash10107/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Dash10107/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Dash10107/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Dash10107/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Dash10107/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Dash10107/Leetcode/tree/master/1731-even-odd-tree) |
