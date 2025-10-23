@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dash10107/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Dash10107/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Dash10107/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Dash10107/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Dash10107/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Dash10107/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dash10107/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -1079,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Dash10107/Leetcode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2344-escape-the-spreading-fire](https://github.com/Dash10107/Leetcode/tree/master/2344-escape-the-spreading-fire) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Dash10107/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Dash10107/Leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Dash10107/Leetcode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
@@ -1862,6 +1864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Dash10107/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Dash10107/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Dash10107/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2505-number-of-good-paths](https://github.com/Dash10107/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Dash10107/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Dash10107/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
@@ -1882,6 +1885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Dash10107/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Dash10107/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Dash10107/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Brainteaser
 |  |
 | ------- |
