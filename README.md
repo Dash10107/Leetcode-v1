@@ -800,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Dash10107/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Dash10107/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Dash10107/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2663-distribute-money-to-maximum-children](https://github.com/Dash10107/Leetcode/tree/master/2663-distribute-money-to-maximum-children) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Dash10107/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/Dash10107/Leetcode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3055-maximum-odd-binary-number](https://github.com/Dash10107/Leetcode/tree/master/3055-maximum-odd-binary-number) |
@@ -1208,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Dash10107/Leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Dash10107/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Dash10107/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2663-distribute-money-to-maximum-children](https://github.com/Dash10107/Leetcode/tree/master/2663-distribute-money-to-maximum-children) |
 | [2689-rearranging-fruits](https://github.com/Dash10107/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Dash10107/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Dash10107/Leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
