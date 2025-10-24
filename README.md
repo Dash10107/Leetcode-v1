@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Dash10107/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2755-extra-characters-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2892-check-if-array-is-good](https://github.com/Dash10107/Leetcode/tree/master/2892-check-if-array-is-good) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dash10107/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Dash10107/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/Dash10107/Leetcode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dash10107/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Dash10107/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Dash10107/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3221-find-the-peaks](https://github.com/Dash10107/Leetcode/tree/master/3221-find-the-peaks) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dash10107/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dash10107/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Dash10107/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Dash10107/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
@@ -1471,6 +1473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Dash10107/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Dash10107/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Dash10107/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dash10107/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Dash10107/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Dash10107/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Dash10107/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
