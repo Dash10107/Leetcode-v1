@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Dash10107/Leetcode/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Dash10107/Leetcode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/Dash10107/Leetcode/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/Dash10107/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3373-maximum-prime-difference](https://github.com/Dash10107/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Dash10107/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Dash10107/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
@@ -1227,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Dash10107/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/Dash10107/Leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dash10107/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/Dash10107/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dash10107/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dash10107/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Dash10107/Leetcode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
@@ -1322,6 +1324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dash10107/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/Dash10107/Leetcode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/Dash10107/Leetcode/tree/master/3316-find-the-sum-of-subsequence-powers) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/Dash10107/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dash10107/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Dash10107/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Dash10107/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
