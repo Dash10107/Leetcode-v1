@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Dash10107/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Dash10107/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/Dash10107/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Dash10107/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1397-search-suggestions-system](https://github.com/Dash10107/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Dash10107/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Dash10107/Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
@@ -777,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Dash10107/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Dash10107/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Dash10107/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Dash10107/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dash10107/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Dash10107/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Dash10107/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -1990,6 +1992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Dash10107/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/Dash10107/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Dash10107/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Dash10107/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Dash10107/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Dash10107/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
