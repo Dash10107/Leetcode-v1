@@ -7,7 +7,7 @@ class Solution:
         
         for ch in s:
             if ch in vowels:
-                parity ^= 1  
+                parity = 1-parity  
             if parity == 0:
                 even += 1
             else:
