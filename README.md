@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Dash10107/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/Dash10107/Leetcode/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Dash10107/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/Dash10107/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Dash10107/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Dash10107/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2755-extra-characters-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Dash10107/Leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Dash10107/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Dash10107/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/Dash10107/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Dash10107/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Dash10107/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Dash10107/Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -1160,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Dash10107/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Dash10107/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/Dash10107/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/Dash10107/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Dash10107/Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Dash10107/Leetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Dash10107/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -1886,6 +1889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Dash10107/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dash10107/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Dash10107/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/Dash10107/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Dash10107/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3192-maximum-xor-product](https://github.com/Dash10107/Leetcode/tree/master/3192-maximum-xor-product) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Dash10107/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
