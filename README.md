@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Dash10107/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Dash10107/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1755-defuse-the-bomb](https://github.com/Dash10107/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1762-furthest-building-you-can-reach](https://github.com/Dash10107/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1767-design-front-middle-back-queue](https://github.com/Dash10107/Leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [1813-maximum-erasure-value](https://github.com/Dash10107/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/Dash10107/Leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
@@ -1212,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Dash10107/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Dash10107/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Dash10107/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1762-furthest-building-you-can-reach](https://github.com/Dash10107/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Dash10107/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1804-maximum-binary-string-after-change](https://github.com/Dash10107/Leetcode/tree/master/1804-maximum-binary-string-after-change) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/Dash10107/Leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
@@ -1386,6 +1388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-diagonal-traverse-ii](https://github.com/Dash10107/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dash10107/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1612-avoid-flood-in-the-city](https://github.com/Dash10107/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1762-furthest-building-you-can-reach](https://github.com/Dash10107/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/Dash10107/Leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1917-maximum-average-pass-ratio](https://github.com/Dash10107/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Dash10107/Leetcode/tree/master/2023-design-movie-rental-system) |
