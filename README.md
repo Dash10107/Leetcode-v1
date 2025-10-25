@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Dash10107/Leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Dash10107/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Dash10107/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Dash10107/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Dash10107/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Dash10107/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Dash10107/Leetcode/tree/master/2689-rearranging-fruits) |
@@ -1173,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Dash10107/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Dash10107/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/Dash10107/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Dash10107/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Dash10107/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Dash10107/Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Dash10107/Leetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
@@ -1248,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Dash10107/Leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Dash10107/Leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Dash10107/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Dash10107/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Dash10107/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2663-distribute-money-to-maximum-children](https://github.com/Dash10107/Leetcode/tree/master/2663-distribute-money-to-maximum-children) |
 | [2689-rearranging-fruits](https://github.com/Dash10107/Leetcode/tree/master/2689-rearranging-fruits) |
@@ -1350,6 +1353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2505-number-of-good-paths](https://github.com/Dash10107/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Dash10107/Leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Dash10107/Leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Dash10107/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2689-rearranging-fruits](https://github.com/Dash10107/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Dash10107/Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2887-sort-vowels-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
