@@ -805,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-operations-to-make-array-equal](https://github.com/Dash10107/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Dash10107/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1761-count-sorted-vowel-strings](https://github.com/Dash10107/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Dash10107/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1906-maximize-score-after-n-operations](https://github.com/Dash10107/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Dash10107/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Dash10107/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
