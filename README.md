@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/Dash10107/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1762-furthest-building-you-can-reach](https://github.com/Dash10107/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1767-design-front-middle-back-queue](https://github.com/Dash10107/Leetcode/tree/master/1767-design-front-middle-back-queue) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Dash10107/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1813-maximum-erasure-value](https://github.com/Dash10107/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/Dash10107/Leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/Dash10107/Leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
@@ -815,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-operations-to-make-array-equal](https://github.com/Dash10107/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Dash10107/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1761-count-sorted-vowel-strings](https://github.com/Dash10107/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Dash10107/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Dash10107/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Dash10107/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1906-maximize-score-after-n-operations](https://github.com/Dash10107/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
@@ -1164,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Dash10107/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/Dash10107/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Dash10107/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Dash10107/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2001-jump-game-vii](https://github.com/Dash10107/Leetcode/tree/master/2001-jump-game-vii) |
 | [2102-find-the-middle-index-in-array](https://github.com/Dash10107/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Dash10107/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
