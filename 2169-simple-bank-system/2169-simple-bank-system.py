@@ -1,39 +1,12 @@
 class Bank:
+    def __init__(self, b: List[int]):
+        self.b = Counter(dict(enumerate([0]+b)))
 
-    def __init__(self, balance: List[int]):
-        self.balance=balance
-        self.n=len(balance)
-        
+    def transfer(self, a1: int, a2: int, m: int) -> bool:
+        return self.withdraw(a1,m) and (self.deposit(a2,m) or not self.deposit(a1,m))
 
-    def transfer(self, account1: int, account2: int, money: int) -> bool:
-        if 1<=account1<=self.n and 1<=account2<=self.n:
-            ac1=self.balance[account1-1]
-            ac2=self.balance[account2-1]
-            if money<=ac1:
-                self.balance[account1-1]-=money
-                self.balance[account2-1]+=money
-                return True
-            else:return False
-        else:return False
+    def deposit(self, a: int, m: int) -> bool:
+        return a<len(self.b) and not self.b.update({a:m})
 
-    def deposit(self, account: int, money: int) -> bool:
-        if 1<=account<=self.n:
-            self.balance[account-1]+=money
-            return True
-        else:return False
-        
-
-    def withdraw(self, account: int, money: int) -> bool:
-        if 1<=account<=self.n:
-            if money<=self.balance[account-1]:
-                self.balance[account-1]-=money
-                return True
-            else:return False
-        else:return False
-
-
-# Your Bank object will be instantiated and called as such:
-# obj = Bank(balance)
-# param_1 = obj.transfer(account1,account2,money)
-# param_2 = obj.deposit(account,money)
-# param_3 = obj.withdraw(account,money)
+    def withdraw(self, a: int, m: int) -> bool:
+        return a<len(self.b) and self.b[a]>=m and not self.b.update({a:-m})
