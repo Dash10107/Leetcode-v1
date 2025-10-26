@@ -1,19 +1,20 @@
-from collections import deque
-from typing import List
-
 class Solution:
     def isBipartite(self, graph: List[List[int]]) -> bool:
-        color = [-1] * len(graph)
-        def dfs(node,col):
-            color[node]=col
-            for neg in graph[node]:
-                if color[neg]==-1:
-                    if not dfs(neg,1-col):return False
-                elif color[neg]==color[node]:
-                    return False
-            return True
+        color = [0] * len(graph)
+
         for start in range(len(graph)):
-            if color[start] == -1:
-                if not dfs(start,0):
-                    return False
+            if color[start]!=0:continue
+            q= deque([start])
+            color[start]=1
+            while q:
+                node = q.popleft()
+                for neg in graph[node]:
+                    if color[neg]==0:
+                        color[neg]=-color[node]
+                        q.append(neg)
+                    elif color[neg]!= -color[node]:
+                        return False
+        return True
+                
+
         return True
