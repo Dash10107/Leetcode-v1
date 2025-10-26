@@ -4,13 +4,12 @@ class Solution:
         for u,v in edges:
             graph[u].append(v)
             graph[v].append(u)
-        q = deque([source])
-        vis=set()
-        while q:
-            node = q.popleft()
+        vis = set()
+        def dfs(node):
             if node==destination:return True
             vis.add(node)
-            for neg in graph[node]:
+            for neg  in graph[node]:
                 if neg not in vis:
-                    q.append(neg)
-        return False
+                    if dfs(neg):return True
+            return False
+        return dfs(source)
