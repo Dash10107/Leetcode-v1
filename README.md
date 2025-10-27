@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dash10107/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Dash10107/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Dash10107/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Dash10107/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1680-count-all-possible-routes](https://github.com/Dash10107/Leetcode/tree/master/1680-count-all-possible-routes) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Dash10107/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Dash10107/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -1345,6 +1346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Dash10107/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Dash10107/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dash10107/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Dash10107/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Dash10107/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Dash10107/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Dash10107/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -1559,6 +1561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Dash10107/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Dash10107/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dash10107/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Dash10107/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Dash10107/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Dash10107/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Dash10107/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
