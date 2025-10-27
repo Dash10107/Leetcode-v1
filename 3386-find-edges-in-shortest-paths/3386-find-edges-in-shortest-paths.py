@@ -18,8 +18,9 @@ class Solution:
             return dist
         sdist = djikstra(0);ddist = djikstra(n-1)
         ans = [False]*len(edges);short =sdist[n-1]
+        if short==float('inf'):return ans
         for i,e in enumerate(edges):
             a,b,w=e
-            if short!=float('inf') and (sdist[a]+w+ddist[b]==short or sdist[b] + w + ddist[a] == short):
+            if sdist[a]+w+ddist[b]==short or sdist[b] + w + ddist[a] == short:
                 ans[i]=True
         return ans
