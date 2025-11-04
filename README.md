@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3519-find-the-number-of-winning-players](https://github.com/Dash10107/Leetcode/tree/master/3519-find-the-number-of-winning-players) |
 | [3541-report-spam-message](https://github.com/Dash10107/Leetcode/tree/master/3541-report-spam-message) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Dash10107/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Dash10107/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3634-find-mirror-score-of-a-string](https://github.com/Dash10107/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3646-sum-of-good-subsequences](https://github.com/Dash10107/Leetcode/tree/master/3646-sum-of-good-subsequences) |
 | [3678-design-task-manager](https://github.com/Dash10107/Leetcode/tree/master/3678-design-task-manager) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3519-find-the-number-of-winning-players](https://github.com/Dash10107/Leetcode/tree/master/3519-find-the-number-of-winning-players) |
 | [3541-report-spam-message](https://github.com/Dash10107/Leetcode/tree/master/3541-report-spam-message) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Dash10107/Leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Dash10107/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Dash10107/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Dash10107/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Dash10107/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -1445,6 +1447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3386-find-edges-in-shortest-paths](https://github.com/Dash10107/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Dash10107/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dash10107/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Dash10107/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Dash10107/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/Dash10107/Leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3678-design-task-manager](https://github.com/Dash10107/Leetcode/tree/master/3678-design-task-manager) |
@@ -1534,6 +1537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Dash10107/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dash10107/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Dash10107/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Dash10107/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Dash10107/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Dash10107/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Dash10107/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
