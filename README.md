@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2881-split-strings-by-separator](https://github.com/Dash10107/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2892-check-if-array-is-good](https://github.com/Dash10107/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/Dash10107/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3104-happy-students](https://github.com/Dash10107/Leetcode/tree/master/3104-happy-students) |
 | [3151-minimum-processing-time](https://github.com/Dash10107/Leetcode/tree/master/3151-minimum-processing-time) |
 | [3194-find-words-containing-character](https://github.com/Dash10107/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -1282,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Dash10107/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Dash10107/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Dash10107/Leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
+| [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/Dash10107/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/Dash10107/Leetcode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3055-maximum-odd-binary-number](https://github.com/Dash10107/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3151-minimum-processing-time](https://github.com/Dash10107/Leetcode/tree/master/3151-minimum-processing-time) |
@@ -1953,6 +1955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/Dash10107/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Dash10107/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Dash10107/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/Dash10107/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3192-maximum-xor-product](https://github.com/Dash10107/Leetcode/tree/master/3192-maximum-xor-product) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Dash10107/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Dash10107/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
