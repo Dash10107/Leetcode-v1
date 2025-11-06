@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Dash10107/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Dash10107/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Dash10107/Leetcode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Dash10107/Leetcode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Dash10107/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/Dash10107/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Dash10107/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Dash10107/Leetcode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Dash10107/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Array
 |  |
 | ------- |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/Dash10107/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Dash10107/Leetcode/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Dash10107/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/Dash10107/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Linked List
 |  |
 | ------- |
@@ -1456,6 +1459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/Dash10107/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/Dash10107/Leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 | [3678-design-task-manager](https://github.com/Dash10107/Leetcode/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/Dash10107/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1752,6 +1756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3486-count-the-number-of-good-nodes](https://github.com/Dash10107/Leetcode/tree/master/3486-count-the-number-of-good-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Dash10107/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Dash10107/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/Dash10107/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1826,6 +1831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Dash10107/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Dash10107/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Dash10107/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/Dash10107/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -2022,6 +2028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Dash10107/Leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Dash10107/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/Dash10107/Leetcode/tree/master/3655-digit-operations-to-make-two-integers-equal) |
+| [3863-power-grid-maintenance](https://github.com/Dash10107/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
@@ -2102,6 +2109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Dash10107/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/Dash10107/Leetcode/tree/master/3680-count-connected-components-in-lcm-graph) |
+| [3863-power-grid-maintenance](https://github.com/Dash10107/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Geometry
 |  |
 | ------- |
