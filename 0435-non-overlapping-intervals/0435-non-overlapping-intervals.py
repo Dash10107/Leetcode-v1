@@ -1,17 +1,8 @@
-class Solution(object):
-    def eraseOverlapIntervals(self, intervals):
+class Solution:
+    def eraseOverlapIntervals(self, intervals: List[List[int]]) -> int:
         intervals.sort(key=lambda x:x[1])
-        ans = 0
-        end= intervals[0][1]
-        for j in range(1,len(intervals)):
-            if intervals[j][0]<end:
-                ans+=1
-            else:
-                end = intervals[j][1]
+        curr,ans=intervals[0][1],0
+        for s,e in intervals[1:]:
+            if s<curr:ans+=1
+            else:curr=e
         return ans
-
-        """
-        :type intervals: List[List[int]]
-        :rtype: int
-        """
-        
