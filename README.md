@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Dash10107/Leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Dash10107/Leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Dash10107/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Dash10107/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Dash10107/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Dash10107/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Dash10107/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
@@ -1207,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Dash10107/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Dash10107/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/Dash10107/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Dash10107/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Dash10107/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Dash10107/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Dash10107/Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -1284,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Dash10107/Leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Dash10107/Leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Dash10107/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Dash10107/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Dash10107/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Dash10107/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2663-distribute-money-to-maximum-children](https://github.com/Dash10107/Leetcode/tree/master/2663-distribute-money-to-maximum-children) |
@@ -1547,6 +1550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Dash10107/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Dash10107/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Dash10107/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Dash10107/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Dash10107/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Dash10107/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dash10107/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1598,6 +1602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Dash10107/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Dash10107/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Dash10107/Leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Dash10107/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2701-subsequence-with-the-minimum-score](https://github.com/Dash10107/Leetcode/tree/master/2701-subsequence-with-the-minimum-score) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Dash10107/Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -2201,6 +2206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dash10107/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1767-design-front-middle-back-queue](https://github.com/Dash10107/Leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Dash10107/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Dash10107/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3827-implement-router](https://github.com/Dash10107/Leetcode/tree/master/3827-implement-router) |
 ## Number Theory
 |  |
