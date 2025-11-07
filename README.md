@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Dash10107/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Dash10107/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Dash10107/Leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [1983-maximum-population-year](https://github.com/Dash10107/Leetcode/tree/master/1983-maximum-population-year) |
 | [2023-design-movie-rental-system](https://github.com/Dash10107/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Dash10107/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Dash10107/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -1199,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/Dash10107/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Dash10107/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Dash10107/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1983-maximum-population-year](https://github.com/Dash10107/Leetcode/tree/master/1983-maximum-population-year) |
 | [2001-jump-game-vii](https://github.com/Dash10107/Leetcode/tree/master/2001-jump-game-vii) |
 | [2102-find-the-middle-index-in-array](https://github.com/Dash10107/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Dash10107/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -1484,6 +1486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Dash10107/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1708-design-parking-system](https://github.com/Dash10107/Leetcode/tree/master/1708-design-parking-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Dash10107/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1983-maximum-population-year](https://github.com/Dash10107/Leetcode/tree/master/1983-maximum-population-year) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Dash10107/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Dash10107/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Dash10107/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
