@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Dash10107/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Dash10107/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Dash10107/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1793-minimum-moves-to-make-array-complementary](https://github.com/Dash10107/Leetcode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/Dash10107/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Dash10107/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Dash10107/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-furthest-building-you-can-reach](https://github.com/Dash10107/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1767-design-front-middle-back-queue](https://github.com/Dash10107/Leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Dash10107/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1793-minimum-moves-to-make-array-complementary](https://github.com/Dash10107/Leetcode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/Dash10107/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Dash10107/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/Dash10107/Leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
@@ -1213,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/Dash10107/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Dash10107/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Dash10107/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1793-minimum-moves-to-make-array-complementary](https://github.com/Dash10107/Leetcode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1983-maximum-population-year](https://github.com/Dash10107/Leetcode/tree/master/1983-maximum-population-year) |
 | [2001-jump-game-vii](https://github.com/Dash10107/Leetcode/tree/master/2001-jump-game-vii) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Dash10107/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
