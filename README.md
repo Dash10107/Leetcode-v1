@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Dash10107/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/Dash10107/Leetcode/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Dash10107/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
+| [2652-count-number-of-possible-root-nodes](https://github.com/Dash10107/Leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Dash10107/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Dash10107/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Dash10107/Leetcode/tree/master/2689-rearranging-fruits) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/Dash10107/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Dash10107/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/Dash10107/Leetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
+| [2652-count-number-of-possible-root-nodes](https://github.com/Dash10107/Leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Dash10107/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Dash10107/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Dash10107/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -1083,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Dash10107/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2444-longest-ideal-subsequence](https://github.com/Dash10107/Leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2510-maximum-deletions-on-a-string](https://github.com/Dash10107/Leetcode/tree/master/2510-maximum-deletions-on-a-string) |
+| [2652-count-number-of-possible-root-nodes](https://github.com/Dash10107/Leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2755-extra-characters-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Dash10107/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Dash10107/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -1723,6 +1726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dash10107/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2505-number-of-good-paths](https://github.com/Dash10107/Leetcode/tree/master/2505-number-of-good-paths) |
+| [2652-count-number-of-possible-root-nodes](https://github.com/Dash10107/Leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dash10107/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Dash10107/Leetcode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3486-count-the-number-of-good-nodes](https://github.com/Dash10107/Leetcode/tree/master/3486-count-the-number-of-good-nodes) |
@@ -1811,6 +1815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dash10107/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Dash10107/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2652-count-number-of-possible-root-nodes](https://github.com/Dash10107/Leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
 | [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Dash10107/Leetcode/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3386-find-edges-in-shortest-paths](https://github.com/Dash10107/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3486-count-the-number-of-good-nodes](https://github.com/Dash10107/Leetcode/tree/master/3486-count-the-number-of-good-nodes) |
