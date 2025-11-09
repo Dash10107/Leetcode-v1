@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-maximum-performance-of-a-team](https://github.com/Dash10107/Leetcode/tree/master/1499-maximum-performance-of-a-team) |
 | [1503-reducing-dishes](https://github.com/Dash10107/Leetcode/tree/master/1503-reducing-dishes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Dash10107/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1511-count-number-of-teams](https://github.com/Dash10107/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Dash10107/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1522-stone-game-iii](https://github.com/Dash10107/Leetcode/tree/master/1522-stone-game-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Dash10107/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -1050,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-jump-game-v](https://github.com/Dash10107/Leetcode/tree/master/1466-jump-game-v) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1503-reducing-dishes](https://github.com/Dash10107/Leetcode/tree/master/1503-reducing-dishes) |
+| [1511-count-number-of-teams](https://github.com/Dash10107/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1522-stone-game-iii](https://github.com/Dash10107/Leetcode/tree/master/1522-stone-game-iii) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/Dash10107/Leetcode/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1559-cherry-pickup-ii](https://github.com/Dash10107/Leetcode/tree/master/1559-cherry-pickup-ii) |
@@ -2327,6 +2329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Dash10107/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Dash10107/Leetcode/tree/master/0732-my-calendar-iii) |
 | [1294-range-frequency-queries](https://github.com/Dash10107/Leetcode/tree/master/1294-range-frequency-queries) |
+| [1511-count-number-of-teams](https://github.com/Dash10107/Leetcode/tree/master/1511-count-number-of-teams) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dash10107/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Dash10107/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
@@ -2339,6 +2342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Dash10107/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1511-count-number-of-teams](https://github.com/Dash10107/Leetcode/tree/master/1511-count-number-of-teams) |
 ## Reservoir Sampling
 |  |
 | ------- |
