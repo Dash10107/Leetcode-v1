@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dash10107/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Dash10107/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Dash10107/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Dash10107/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Dash10107/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Dash10107/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/Dash10107/Leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
@@ -2051,6 +2052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3192-maximum-xor-product](https://github.com/Dash10107/Leetcode/tree/master/3192-maximum-xor-product) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Dash10107/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Dash10107/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Dash10107/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dash10107/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/Dash10107/Leetcode/tree/master/3443-maximum-total-reward-using-operations-ii) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Dash10107/Leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
