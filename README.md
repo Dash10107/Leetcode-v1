@@ -629,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dash10107/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1767-design-front-middle-back-queue](https://github.com/Dash10107/Leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Dash10107/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Dash10107/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Dash10107/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Hash Function
 |  |
@@ -2164,6 +2165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Dash10107/Leetcode/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Dash10107/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Dash10107/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Dash10107/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Dash10107/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Dash10107/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dash10107/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
