@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Dash10107/Leetcode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/Dash10107/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0740-delete-and-earn](https://github.com/Dash10107/Leetcode/tree/master/0740-delete-and-earn) |
+| [0746-prefix-and-suffix-search](https://github.com/Dash10107/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0753-open-the-lock](https://github.com/Dash10107/Leetcode/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/Dash10107/Leetcode/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Dash10107/Leetcode/tree/master/0807-custom-sort-string) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Dash10107/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0731-my-calendar-ii](https://github.com/Dash10107/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Dash10107/Leetcode/tree/master/0732-my-calendar-iii) |
+| [0746-prefix-and-suffix-search](https://github.com/Dash10107/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0816-design-hashset](https://github.com/Dash10107/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Dash10107/Leetcode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/Dash10107/Leetcode/tree/master/0859-design-circular-deque) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Dash10107/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Dash10107/Leetcode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Dash10107/Leetcode/tree/master/0740-delete-and-earn) |
+| [0746-prefix-and-suffix-search](https://github.com/Dash10107/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0753-open-the-lock](https://github.com/Dash10107/Leetcode/tree/master/0753-open-the-lock) |
 | [0816-design-hashset](https://github.com/Dash10107/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Dash10107/Leetcode/tree/master/0817-design-hashmap) |
@@ -690,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Dash10107/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Dash10107/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0742-to-lower-case](https://github.com/Dash10107/Leetcode/tree/master/0742-to-lower-case) |
+| [0746-prefix-and-suffix-search](https://github.com/Dash10107/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0753-open-the-lock](https://github.com/Dash10107/Leetcode/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/Dash10107/Leetcode/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/Dash10107/Leetcode/tree/master/0800-letter-case-permutation) |
@@ -1984,6 +1988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Dash10107/Leetcode/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/Dash10107/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Dash10107/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0746-prefix-and-suffix-search](https://github.com/Dash10107/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dash10107/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/Dash10107/Leetcode/tree/master/1397-search-suggestions-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Dash10107/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
