@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dash10107/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/Dash10107/Leetcode/tree/master/0454-4sum-ii) |
 | [0456-132-pattern](https://github.com/Dash10107/Leetcode/tree/master/0456-132-pattern) |
+| [0474-ones-and-zeroes](https://github.com/Dash10107/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Dash10107/Leetcode/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/Dash10107/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Dash10107/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Dash10107/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/Dash10107/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/Dash10107/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0514-freedom-trail](https://github.com/Dash10107/Leetcode/tree/master/0514-freedom-trail) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Dash10107/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Dash10107/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -1016,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Dash10107/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Dash10107/Leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0464-can-i-win](https://github.com/Dash10107/Leetcode/tree/master/0464-can-i-win) |
+| [0474-ones-and-zeroes](https://github.com/Dash10107/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Dash10107/Leetcode/tree/master/0486-predict-the-winner) |
 | [0514-freedom-trail](https://github.com/Dash10107/Leetcode/tree/master/0514-freedom-trail) |
 | [0552-student-attendance-record-ii](https://github.com/Dash10107/Leetcode/tree/master/0552-student-attendance-record-ii) |
