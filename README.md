@@ -1023,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/Dash10107/Leetcode/tree/master/0514-freedom-trail) |
 | [0552-student-attendance-record-ii](https://github.com/Dash10107/Leetcode/tree/master/0552-student-attendance-record-ii) |
 | [0576-out-of-boundary-paths](https://github.com/Dash10107/Leetcode/tree/master/0576-out-of-boundary-paths) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/Dash10107/Leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Dash10107/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Dash10107/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/Dash10107/Leetcode/tree/master/0664-strange-printer) |
