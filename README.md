@@ -780,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-count-the-number-of-special-characters-i](https://github.com/Dash10107/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dash10107/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3462-vowels-game-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Dash10107/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/Dash10107/Leetcode/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Dash10107/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3541-report-spam-message](https://github.com/Dash10107/Leetcode/tree/master/3541-report-spam-message) |
@@ -1624,6 +1625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Dash10107/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Dash10107/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dash10107/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Dash10107/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Dash10107/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Dash10107/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Dash10107/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -2258,6 +2260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Dash10107/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Dash10107/Leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Dash10107/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Dash10107/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Dash10107/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3699-count-special-subsequences](https://github.com/Dash10107/Leetcode/tree/master/3699-count-special-subsequences) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Dash10107/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
