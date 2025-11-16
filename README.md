@@ -1109,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-longest-ideal-subsequence](https://github.com/Dash10107/Leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2510-maximum-deletions-on-a-string](https://github.com/Dash10107/Leetcode/tree/master/2510-maximum-deletions-on-a-string) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Dash10107/Leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Dash10107/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2755-extra-characters-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Dash10107/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Dash10107/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -1357,6 +1358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2663-distribute-money-to-maximum-children](https://github.com/Dash10107/Leetcode/tree/master/2663-distribute-money-to-maximum-children) |
 | [2689-rearranging-fruits](https://github.com/Dash10107/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Dash10107/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Dash10107/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Dash10107/Leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/Dash10107/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/Dash10107/Leetcode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
@@ -2069,6 +2071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/Dash10107/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Dash10107/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2705-minimum-impossible-or](https://github.com/Dash10107/Leetcode/tree/master/2705-minimum-impossible-or) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Dash10107/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Dash10107/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/Dash10107/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3192-maximum-xor-product](https://github.com/Dash10107/Leetcode/tree/master/3192-maximum-xor-product) |
