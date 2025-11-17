@@ -1,17 +1,10 @@
 class Solution:
     def taskSchedulerII(self, tasks: List[int], space: int) -> int:
-        n = len(tasks)
-        c = defaultdict(int)
-        rep=False
-        ans=1
-        for t in tasks:
-            last = c.get(t,0)
-            if last!=0 and last+space+1>ans:
-                wait = last+space-ans+1
-                ans+=wait
-                rep=True
-                c[t]=ans                
-            else:
-                ans+=1
-                c[t]=ans
-        return  ans-1
+        count_dict = {}
+        total_days = 0
+        for task in tasks:
+            if task not in count_dict:
+                count_dict[task] = -math.inf
+            total_days = max(total_days + 1, count_dict[task] + space + 1)
+            count_dict[task] = total_days
+        return total_days
