@@ -816,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Dash10107/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Dash10107/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Dash10107/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Dash10107/Leetcode/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Dash10107/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0212-word-search-ii](https://github.com/Dash10107/Leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Dash10107/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -841,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Dash10107/Leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Dash10107/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Dash10107/Leetcode/tree/master/0050-powx-n) |
+| [0089-gray-code](https://github.com/Dash10107/Leetcode/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Dash10107/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/Dash10107/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Dash10107/Leetcode/tree/master/0231-power-of-two) |
@@ -2039,6 +2041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Dash10107/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Dash10107/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Dash10107/Leetcode/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/Dash10107/Leetcode/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Dash10107/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Dash10107/Leetcode/tree/master/0222-count-complete-tree-nodes) |
