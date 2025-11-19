@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Dash10107/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dash10107/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Dash10107/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Dash10107/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Dash10107/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Dash10107/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Dash10107/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Dash10107/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Dash10107/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Dash10107/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Dash10107/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Dash10107/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Dash10107/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Dash10107/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -1462,6 +1464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2245-destroying-asteroids](https://github.com/Dash10107/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Dash10107/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Dash10107/Leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Dash10107/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Dash10107/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Dash10107/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Dash10107/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -2202,6 +2205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dash10107/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Dash10107/Leetcode/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Dash10107/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Dash10107/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Dash10107/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Dash10107/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Dash10107/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
