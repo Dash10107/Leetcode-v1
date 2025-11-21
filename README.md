@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Dash10107/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2023-design-movie-rental-system](https://github.com/Dash10107/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Dash10107/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Dash10107/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Dash10107/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2169-simple-bank-system](https://github.com/Dash10107/Leetcode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Dash10107/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -748,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Dash10107/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2001-jump-game-vii](https://github.com/Dash10107/Leetcode/tree/master/2001-jump-game-vii) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Dash10107/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Dash10107/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Dash10107/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Dash10107/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dash10107/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -1274,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/Dash10107/Leetcode/tree/master/1983-maximum-population-year) |
 | [2001-jump-game-vii](https://github.com/Dash10107/Leetcode/tree/master/2001-jump-game-vii) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Dash10107/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Dash10107/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/Dash10107/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Dash10107/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Dash10107/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
@@ -2075,6 +2078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/Dash10107/Leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1873-longest-nice-substring](https://github.com/Dash10107/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1906-maximize-score-after-n-operations](https://github.com/Dash10107/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Dash10107/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dash10107/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Dash10107/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2390-naming-a-company](https://github.com/Dash10107/Leetcode/tree/master/2390-naming-a-company) |
