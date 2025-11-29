@@ -595,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Dash10107/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Dash10107/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Dash10107/Leetcode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dash10107/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Dash10107/Leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Dash10107/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/Dash10107/Leetcode/tree/master/3519-find-the-number-of-winning-players) |
@@ -938,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3373-maximum-prime-difference](https://github.com/Dash10107/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Dash10107/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dash10107/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Dash10107/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Dash10107/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3625-stone-removal-game](https://github.com/Dash10107/Leetcode/tree/master/3625-stone-removal-game) |
