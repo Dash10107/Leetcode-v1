@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-find-all-groups-of-farmland](https://github.com/Dash10107/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Dash10107/Leetcode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dash10107/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Dash10107/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Dash10107/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Dash10107/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Dash10107/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -1367,6 +1368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Dash10107/Leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Dash10107/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Dash10107/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Dash10107/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Dash10107/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Dash10107/Leetcode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dash10107/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1485,6 +1487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Dash10107/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Dash10107/Leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Dash10107/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Dash10107/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Dash10107/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Dash10107/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2245-destroying-asteroids](https://github.com/Dash10107/Leetcode/tree/master/2245-destroying-asteroids) |
@@ -1710,6 +1713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Dash10107/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Dash10107/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Dash10107/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Dash10107/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Dash10107/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Dash10107/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Dash10107/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
