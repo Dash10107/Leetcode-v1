@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Dash10107/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-prefix-and-suffix-search](https://github.com/Dash10107/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0753-open-the-lock](https://github.com/Dash10107/Leetcode/tree/master/0753-open-the-lock) |
+| [0771-jewels-and-stones](https://github.com/Dash10107/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0778-reorganize-string](https://github.com/Dash10107/Leetcode/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Dash10107/Leetcode/tree/master/0807-custom-sort-string) |
 | [0816-design-hashset](https://github.com/Dash10107/Leetcode/tree/master/0816-design-hashset) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Dash10107/Leetcode/tree/master/0742-to-lower-case) |
 | [0746-prefix-and-suffix-search](https://github.com/Dash10107/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0753-open-the-lock](https://github.com/Dash10107/Leetcode/tree/master/0753-open-the-lock) |
+| [0771-jewels-and-stones](https://github.com/Dash10107/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0778-reorganize-string](https://github.com/Dash10107/Leetcode/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/Dash10107/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0807-custom-sort-string](https://github.com/Dash10107/Leetcode/tree/master/0807-custom-sort-string) |
