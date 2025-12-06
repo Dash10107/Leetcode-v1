@@ -1818,6 +1818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/Dash10107/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/Dash10107/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Dash10107/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1985,6 +1986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Dash10107/Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0945-snakes-and-ladders](https://github.com/Dash10107/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0971-shortest-bridge](https://github.com/Dash10107/Leetcode/tree/master/0971-shortest-bridge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1035-cousins-in-binary-tree) |
@@ -2057,6 +2059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/Dash10107/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Dash10107/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
