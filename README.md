@@ -934,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Dash10107/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Dash10107/Leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1906-maximize-score-after-n-operations](https://github.com/Dash10107/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
+| [1925-count-square-sum-triples](https://github.com/Dash10107/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Dash10107/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Dash10107/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Dash10107/Leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
@@ -2353,6 +2354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Dash10107/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1212-sequential-digits](https://github.com/Dash10107/Leetcode/tree/master/1212-sequential-digits) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Dash10107/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1925-count-square-sum-triples](https://github.com/Dash10107/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Dash10107/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dash10107/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Dash10107/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
