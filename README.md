@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3519-find-the-number-of-winning-players](https://github.com/Dash10107/Leetcode/tree/master/3519-find-the-number-of-winning-players) |
 | [3541-report-spam-message](https://github.com/Dash10107/Leetcode/tree/master/3541-report-spam-message) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Dash10107/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3583-count-special-triplets](https://github.com/Dash10107/Leetcode/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Dash10107/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Dash10107/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Dash10107/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-report-spam-message](https://github.com/Dash10107/Leetcode/tree/master/3541-report-spam-message) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Dash10107/Leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Dash10107/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3583-count-special-triplets](https://github.com/Dash10107/Leetcode/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Dash10107/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Dash10107/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Dash10107/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -1667,6 +1669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/Dash10107/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Dash10107/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3519-find-the-number-of-winning-players](https://github.com/Dash10107/Leetcode/tree/master/3519-find-the-number-of-winning-players) |
+| [3583-count-special-triplets](https://github.com/Dash10107/Leetcode/tree/master/3583-count-special-triplets) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dash10107/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Dash10107/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Dash10107/Leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
