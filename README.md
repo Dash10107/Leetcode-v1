@@ -599,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Dash10107/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Dash10107/Leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Dash10107/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/Dash10107/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Dash10107/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/Dash10107/Leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/Dash10107/Leetcode/tree/master/3443-maximum-total-reward-using-operations-ii) |
@@ -973,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/Dash10107/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3373-maximum-prime-difference](https://github.com/Dash10107/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Dash10107/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/Dash10107/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Dash10107/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dash10107/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -1574,6 +1576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3316-find-the-sum-of-subsequence-powers](https://github.com/Dash10107/Leetcode/tree/master/3316-find-the-sum-of-subsequence-powers) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Dash10107/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dash10107/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3433-count-mentions-per-user](https://github.com/Dash10107/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Dash10107/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3467-transform-array-by-parity](https://github.com/Dash10107/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Dash10107/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -2309,6 +2312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-task-scheduler-ii](https://github.com/Dash10107/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2886-faulty-keyboard](https://github.com/Dash10107/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3336-water-bottles-ii](https://github.com/Dash10107/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/Dash10107/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Dash10107/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Dash10107/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3625-stone-removal-game](https://github.com/Dash10107/Leetcode/tree/master/3625-stone-removal-game) |
