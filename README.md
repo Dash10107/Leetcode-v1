@@ -1551,6 +1551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Dash10107/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Dash10107/Leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Dash10107/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2092-find-all-people-with-secret](https://github.com/Dash10107/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Dash10107/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Dash10107/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Dash10107/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1950,6 +1951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Dash10107/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Dash10107/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Dash10107/Leetcode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [2092-find-all-people-with-secret](https://github.com/Dash10107/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2103-find-all-groups-of-farmland](https://github.com/Dash10107/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Dash10107/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Dash10107/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -2036,6 +2038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Dash10107/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1731-even-odd-tree](https://github.com/Dash10107/Leetcode/tree/master/1731-even-odd-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Dash10107/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/Dash10107/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2103-find-all-groups-of-farmland](https://github.com/Dash10107/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Dash10107/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Dash10107/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -2244,6 +2247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Dash10107/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1916-find-center-of-star-graph](https://github.com/Dash10107/Leetcode/tree/master/1916-find-center-of-star-graph) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Dash10107/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2092-find-all-people-with-secret](https://github.com/Dash10107/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Dash10107/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2176-parallel-courses-iii](https://github.com/Dash10107/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/Dash10107/Leetcode/tree/master/2189-maximum-path-quality-of-a-graph) |
@@ -2349,6 +2353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/Dash10107/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Dash10107/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Dash10107/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [2092-find-all-people-with-secret](https://github.com/Dash10107/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Dash10107/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Dash10107/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2505-number-of-good-paths](https://github.com/Dash10107/Leetcode/tree/master/2505-number-of-good-paths) |
