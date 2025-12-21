@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Dash10107/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/Dash10107/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dash10107/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Dash10107/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0965-unique-email-addresses](https://github.com/Dash10107/Leetcode/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/Dash10107/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0971-shortest-bridge](https://github.com/Dash10107/Leetcode/tree/master/0971-shortest-bridge) |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/Dash10107/Leetcode/tree/master/0889-buddy-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Dash10107/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-reverse-only-letters](https://github.com/Dash10107/Leetcode/tree/master/0953-reverse-only-letters) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Dash10107/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0965-unique-email-addresses](https://github.com/Dash10107/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1006-vowel-spellchecker](https://github.com/Dash10107/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Dash10107/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -1404,6 +1406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Dash10107/Leetcode/tree/master/0876-hand-of-straights) |
 | [0891-score-after-flipping-matrix](https://github.com/Dash10107/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Dash10107/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Dash10107/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Dash10107/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Dash10107/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1081-video-stitching](https://github.com/Dash10107/Leetcode/tree/master/1081-video-stitching) |
