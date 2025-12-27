@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dash10107/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Dash10107/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Dash10107/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Dash10107/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Dash10107/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2390-naming-a-company](https://github.com/Dash10107/Leetcode/tree/master/2390-naming-a-company) |
 | [2402-meeting-rooms-iii](https://github.com/Dash10107/Leetcode/tree/master/2402-meeting-rooms-iii) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Dash10107/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2344-escape-the-spreading-fire](https://github.com/Dash10107/Leetcode/tree/master/2344-escape-the-spreading-fire) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Dash10107/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Dash10107/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Dash10107/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Dash10107/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2390-naming-a-company](https://github.com/Dash10107/Leetcode/tree/master/2390-naming-a-company) |
@@ -1893,6 +1895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-even-odd-tree](https://github.com/Dash10107/Leetcode/tree/master/1731-even-odd-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Dash10107/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Dash10107/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Dash10107/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Dash10107/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Dash10107/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1980,6 +1983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Dash10107/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Dash10107/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Dash10107/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Dash10107/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Dash10107/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Dash10107/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -2065,6 +2069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/Dash10107/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Dash10107/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2344-escape-the-spreading-fire](https://github.com/Dash10107/Leetcode/tree/master/2344-escape-the-spreading-fire) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Dash10107/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Dash10107/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Dash10107/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -2276,6 +2281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/Dash10107/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Dash10107/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Dash10107/Leetcode/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Dash10107/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Dash10107/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Dash10107/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -2378,6 +2384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Dash10107/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2092-find-all-people-with-secret](https://github.com/Dash10107/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Dash10107/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Dash10107/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Dash10107/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2505-number-of-good-paths](https://github.com/Dash10107/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Dash10107/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
