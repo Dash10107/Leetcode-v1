@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Dash10107/Leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Dash10107/Leetcode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Dash10107/Leetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Dash10107/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Dash10107/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Dash10107/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dash10107/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -914,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Dash10107/Leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Dash10107/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Dash10107/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Dash10107/Leetcode/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/Dash10107/Leetcode/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Dash10107/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/Dash10107/Leetcode/tree/master/0204-count-primes) |
