@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Dash10107/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1380-number-of-closed-islands](https://github.com/Dash10107/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Dash10107/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1390-four-divisors](https://github.com/Dash10107/Leetcode/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Dash10107/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/Dash10107/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Dash10107/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -958,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Dash10107/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Dash10107/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Dash10107/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1390-four-divisors](https://github.com/Dash10107/Leetcode/tree/master/1390-four-divisors) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Dash10107/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dash10107/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Dash10107/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
