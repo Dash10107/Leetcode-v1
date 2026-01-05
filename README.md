@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Dash10107/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Dash10107/Leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Dash10107/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/Dash10107/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1983-maximum-population-year](https://github.com/Dash10107/Leetcode/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Dash10107/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2023-design-movie-rental-system](https://github.com/Dash10107/Leetcode/tree/master/2023-design-movie-rental-system) |
@@ -1333,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Dash10107/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Dash10107/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Dash10107/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/Dash10107/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2103-find-all-groups-of-farmland](https://github.com/Dash10107/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Dash10107/Leetcode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Dash10107/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -1470,6 +1472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Dash10107/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Dash10107/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Dash10107/Leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [1975-maximum-matrix-sum](https://github.com/Dash10107/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Dash10107/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Dash10107/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Dash10107/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
