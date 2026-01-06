@@ -850,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Dash10107/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3110-score-of-a-string](https://github.com/Dash10107/Leetcode/tree/master/3110-score-of-a-string) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Dash10107/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3194-find-words-containing-character](https://github.com/Dash10107/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Dash10107/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3207-make-three-strings-equal](https://github.com/Dash10107/Leetcode/tree/master/3207-make-three-strings-equal) |
@@ -2404,6 +2405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dash10107/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2483-task-scheduler-ii](https://github.com/Dash10107/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2886-faulty-keyboard](https://github.com/Dash10107/Leetcode/tree/master/2886-faulty-keyboard) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Dash10107/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3336-water-bottles-ii](https://github.com/Dash10107/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/Dash10107/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Dash10107/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
