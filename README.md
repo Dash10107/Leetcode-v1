@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Dash10107/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Dash10107/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dash10107/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Dash10107/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/Dash10107/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/Dash10107/Leetcode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Dash10107/Leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Dash10107/Leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Dash10107/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Dash10107/Leetcode/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Dash10107/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Dash10107/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dash10107/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Dash10107/Leetcode/tree/master/0169-majority-element) |
@@ -933,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Dash10107/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Dash10107/Leetcode/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/Dash10107/Leetcode/tree/master/0089-gray-code) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Dash10107/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Dash10107/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/Dash10107/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Dash10107/Leetcode/tree/master/0231-power-of-two) |
