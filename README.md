@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Dash10107/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dash10107/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Dash10107/Leetcode/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/Dash10107/Leetcode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dash10107/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0690-employee-importance](https://github.com/Dash10107/Leetcode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/Dash10107/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Dash10107/Leetcode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Dash10107/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Dash10107/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Dash10107/Leetcode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Dash10107/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/Dash10107/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -1556,6 +1558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Dash10107/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Dash10107/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Dash10107/Leetcode/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/Dash10107/Leetcode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Dash10107/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/Dash10107/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Dash10107/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -2246,6 +2249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Dash10107/Leetcode/tree/master/0342-power-of-four) |
 | [0464-can-i-win](https://github.com/Dash10107/Leetcode/tree/master/0464-can-i-win) |
 | [0491-non-decreasing-subsequences](https://github.com/Dash10107/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0645-set-mismatch](https://github.com/Dash10107/Leetcode/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/Dash10107/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/Dash10107/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0891-score-after-flipping-matrix](https://github.com/Dash10107/Leetcode/tree/master/0891-score-after-flipping-matrix) |
