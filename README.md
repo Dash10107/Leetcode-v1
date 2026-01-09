@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-jump-game-v](https://github.com/Dash10107/Leetcode/tree/master/1466-jump-game-v) |
 | [1470-shuffle-the-array](https://github.com/Dash10107/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Dash10107/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Dash10107/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1499-maximum-performance-of-a-team](https://github.com/Dash10107/Leetcode/tree/master/1499-maximum-performance-of-a-team) |
 | [1503-reducing-dishes](https://github.com/Dash10107/Leetcode/tree/master/1503-reducing-dishes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Dash10107/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -1853,6 +1854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Dash10107/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1397-search-suggestions-system](https://github.com/Dash10107/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Dash10107/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Dash10107/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/Dash10107/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Dash10107/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dash10107/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
