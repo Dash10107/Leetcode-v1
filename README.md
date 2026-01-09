@@ -974,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Dash10107/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/Dash10107/Leetcode/tree/master/1086-divisor-game) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
+| [1201-ugly-number-iii](https://github.com/Dash10107/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1240-stone-game-ii](https://github.com/Dash10107/Leetcode/tree/master/1240-stone-game-ii) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Dash10107/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Dash10107/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1853,6 +1854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/Dash10107/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1046-max-consecutive-ones-iii](https://github.com/Dash10107/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Dash10107/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1201-ugly-number-iii](https://github.com/Dash10107/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1290-make-array-strictly-increasing](https://github.com/Dash10107/Leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1294-range-frequency-queries](https://github.com/Dash10107/Leetcode/tree/master/1294-range-frequency-queries) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Dash10107/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
@@ -2492,6 +2494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1201-ugly-number-iii](https://github.com/Dash10107/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Dash10107/Leetcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1761-count-sorted-vowel-strings](https://github.com/Dash10107/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Dash10107/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -2565,6 +2568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Dash10107/Leetcode/tree/master/0204-count-primes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dash10107/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
+| [1201-ugly-number-iii](https://github.com/Dash10107/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Dash10107/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1906-maximize-score-after-n-operations](https://github.com/Dash10107/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Dash10107/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
