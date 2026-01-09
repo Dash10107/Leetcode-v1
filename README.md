@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Dash10107/Leetcode/tree/master/0817-design-hashmap) |
 | [0833-bus-routes](https://github.com/Dash10107/Leetcode/tree/master/0833-bus-routes) |
 | [0840-magic-squares-in-grid](https://github.com/Dash10107/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dash10107/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0869-similar-string-groups](https://github.com/Dash10107/Leetcode/tree/master/0869-similar-string-groups) |
 | [0876-hand-of-straights](https://github.com/Dash10107/Leetcode/tree/master/0876-hand-of-straights) |
 | [0889-buddy-strings](https://github.com/Dash10107/Leetcode/tree/master/0889-buddy-strings) |
@@ -1925,6 +1926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/Dash10107/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dash10107/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/Dash10107/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -2009,6 +2011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/Dash10107/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Dash10107/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0863-sum-of-distances-in-tree](https://github.com/Dash10107/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dash10107/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0869-similar-string-groups](https://github.com/Dash10107/Leetcode/tree/master/0869-similar-string-groups) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0971-shortest-bridge](https://github.com/Dash10107/Leetcode/tree/master/0971-shortest-bridge) |
@@ -2103,6 +2106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/Dash10107/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Dash10107/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0833-bus-routes](https://github.com/Dash10107/Leetcode/tree/master/0833-bus-routes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dash10107/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0869-similar-string-groups](https://github.com/Dash10107/Leetcode/tree/master/0869-similar-string-groups) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Dash10107/Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
@@ -2184,6 +2188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Dash10107/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/Dash10107/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
