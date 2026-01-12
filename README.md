@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Dash10107/Leetcode/tree/master/1240-stone-game-ii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Dash10107/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dash10107/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Dash10107/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-make-array-strictly-increasing](https://github.com/Dash10107/Leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1294-range-frequency-queries](https://github.com/Dash10107/Leetcode/tree/master/1294-range-frequency-queries) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Dash10107/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -976,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1201-ugly-number-iii](https://github.com/Dash10107/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1240-stone-game-ii](https://github.com/Dash10107/Leetcode/tree/master/1240-stone-game-ii) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Dash10107/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Dash10107/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Dash10107/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Dash10107/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
@@ -2485,6 +2487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Dash10107/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/Dash10107/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Dash10107/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Dash10107/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Dash10107/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Dash10107/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
