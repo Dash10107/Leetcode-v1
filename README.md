@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Dash10107/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0833-bus-routes](https://github.com/Dash10107/Leetcode/tree/master/0833-bus-routes) |
 | [0840-magic-squares-in-grid](https://github.com/Dash10107/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0845-longest-mountain-in-array](https://github.com/Dash10107/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0853-most-profit-assigning-work](https://github.com/Dash10107/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0859-design-circular-deque](https://github.com/Dash10107/Leetcode/tree/master/0859-design-circular-deque) |
 | [0869-similar-string-groups](https://github.com/Dash10107/Leetcode/tree/master/0869-similar-string-groups) |
@@ -1105,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Dash10107/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Dash10107/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Dash10107/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0845-longest-mountain-in-array](https://github.com/Dash10107/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0853-most-profit-assigning-work](https://github.com/Dash10107/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0953-reverse-only-letters](https://github.com/Dash10107/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Dash10107/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -1176,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dash10107/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Dash10107/Leetcode/tree/master/0740-delete-and-earn) |
 | [0826-soup-servings](https://github.com/Dash10107/Leetcode/tree/master/0826-soup-servings) |
+| [0845-longest-mountain-in-array](https://github.com/Dash10107/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0863-sum-of-distances-in-tree](https://github.com/Dash10107/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0867-new-21-game](https://github.com/Dash10107/Leetcode/tree/master/0867-new-21-game) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Dash10107/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -2510,6 +2513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Dash10107/Leetcode/tree/master/0204-count-primes) |
+| [0845-longest-mountain-in-array](https://github.com/Dash10107/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0900-reordered-power-of-2](https://github.com/Dash10107/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1212-sequential-digits](https://github.com/Dash10107/Leetcode/tree/master/1212-sequential-digits) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Dash10107/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
