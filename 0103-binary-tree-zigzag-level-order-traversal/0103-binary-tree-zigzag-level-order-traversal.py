@@ -11,19 +11,30 @@ class Solution:
         
         queue = deque([root])
         levels = []
-        reverse = True
+        reverse = False
         while queue:
             tempList = []
             l = len(queue)
             for i in range(l):
-                node = queue.pop() 
-                tempList.append(node.val)
-                if node.right:
-                    queue.appendleft(node.right)                     
-                if node.left:
-                    queue.appendleft(node.left)
-            if reverse:levels.append(tempList[::-1])
-            else:levels.append(tempList)
-            reverse = not reverse
+                if not  reverse:
+                    node = queue.popleft() 
+                    tempList.append(node.val)
+                    if node.left:
+                        queue.append(node.left)
+                    if node.right:
+                        queue.append(node.right) 
+                else : 
+                    node = queue.pop() 
+                    tempList.append(node.val)
+                    if node.right:
+                        queue.appendleft(node.right)                     
+                    if node.left:
+                        queue.appendleft(node.left)
+
+
+
+            reverse  = not reverse 
+            levels.append(tempList)
+        
         return levels
         
