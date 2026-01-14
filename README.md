@@ -656,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Dash10107/Leetcode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3453-separate-squares-i](https://github.com/Dash10107/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Dash10107/Leetcode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
+| [3454-separate-squares-ii](https://github.com/Dash10107/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Dash10107/Leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Dash10107/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Dash10107/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -1918,6 +1919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Dash10107/Leetcode/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Dash10107/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Dash10107/Leetcode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Dash10107/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Dash10107/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Dash10107/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dash10107/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -2684,6 +2686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1294-range-frequency-queries](https://github.com/Dash10107/Leetcode/tree/master/1294-range-frequency-queries) |
 | [1511-count-number-of-teams](https://github.com/Dash10107/Leetcode/tree/master/1511-count-number-of-teams) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Dash10107/Leetcode/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
+| [3454-separate-squares-ii](https://github.com/Dash10107/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dash10107/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Dash10107/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
@@ -2709,4 +2712,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1187-print-foobar-alternately](https://github.com/Dash10107/Leetcode/tree/master/1187-print-foobar-alternately) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Dash10107/Leetcode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
