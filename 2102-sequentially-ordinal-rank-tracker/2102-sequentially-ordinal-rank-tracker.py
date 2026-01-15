@@ -1,11 +1,11 @@
 class SORTracker:
 
     def __init__(self):
-        self.s=SortedList()
+        self.s=[]
         self.i=0
 
     def add(self, name: str, score: int) -> None:
-        self.s.add((-score,name))
+        insort(self.s,(-score,name))
 
     def get(self) -> str:
         _,name = self.s[self.i]
