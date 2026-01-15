@@ -613,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2881-split-strings-by-separator](https://github.com/Dash10107/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2892-check-if-array-is-good](https://github.com/Dash10107/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Dash10107/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/Dash10107/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3034-points-that-intersect-with-cars](https://github.com/Dash10107/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Dash10107/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -1683,6 +1684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Dash10107/Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2887-sort-vowels-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2892-check-if-array-is-good](https://github.com/Dash10107/Leetcode/tree/master/2892-check-if-array-is-good) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Dash10107/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Dash10107/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3104-happy-students](https://github.com/Dash10107/Leetcode/tree/master/3104-happy-students) |
 | [3151-minimum-processing-time](https://github.com/Dash10107/Leetcode/tree/master/3151-minimum-processing-time) |
