@@ -1969,6 +1969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Dash10107/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Dash10107/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/Dash10107/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Dash10107/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -2054,6 +2055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/Dash10107/Leetcode/tree/master/0514-freedom-trail) |
 | [0543-diameter-of-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Dash10107/Leetcode/tree/master/0547-number-of-provinces) |
+| [0563-binary-tree-tilt](https://github.com/Dash10107/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Dash10107/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -2235,6 +2237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Dash10107/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Dash10107/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/Dash10107/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Dash10107/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
