@@ -2004,6 +2004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Dash10107/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1285-balance-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/Dash10107/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Dash10107/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -2088,6 +2089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dash10107/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1361-validate-binary-tree-nodes](https://github.com/Dash10107/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1380-number-of-closed-islands](https://github.com/Dash10107/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/Dash10107/Leetcode/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Dash10107/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -2178,6 +2180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Dash10107/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Dash10107/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1361-validate-binary-tree-nodes](https://github.com/Dash10107/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1380-number-of-closed-islands](https://github.com/Dash10107/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/Dash10107/Leetcode/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Dash10107/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -2268,6 +2271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Dash10107/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1285-balance-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/Dash10107/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Dash10107/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -2735,4 +2739,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Dash10107/Leetcode/tree/master/3454-separate-squares-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1361-validate-binary-tree-nodes](https://github.com/Dash10107/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
+## Graph Theory
+|  |
+| ------- |
+| [1361-validate-binary-tree-nodes](https://github.com/Dash10107/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 <!---LeetCode Topics End-->
