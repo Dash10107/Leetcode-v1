@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Dash10107/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/Dash10107/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3034-points-that-intersect-with-cars](https://github.com/Dash10107/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Dash10107/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Dash10107/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3104-happy-students](https://github.com/Dash10107/Leetcode/tree/master/3104-happy-students) |
 | [3151-minimum-processing-time](https://github.com/Dash10107/Leetcode/tree/master/3151-minimum-processing-time) |
@@ -1045,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Dash10107/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Dash10107/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/Dash10107/Leetcode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Dash10107/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3055-maximum-odd-binary-number](https://github.com/Dash10107/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/Dash10107/Leetcode/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Dash10107/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -2544,6 +2546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/Dash10107/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Dash10107/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Dash10107/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Dash10107/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Dash10107/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Dash10107/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Dash10107/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
