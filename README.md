@@ -995,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Dash10107/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Dash10107/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/Dash10107/Leetcode/tree/master/0867-new-21-game) |
+| [0887-super-egg-drop](https://github.com/Dash10107/Leetcode/tree/master/0887-super-egg-drop) |
 | [0900-reordered-power-of-2](https://github.com/Dash10107/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/Dash10107/Leetcode/tree/master/0909-stone-game) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Dash10107/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
@@ -1212,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Dash10107/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0863-sum-of-distances-in-tree](https://github.com/Dash10107/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0867-new-21-game](https://github.com/Dash10107/Leetcode/tree/master/0867-new-21-game) |
+| [0887-super-egg-drop](https://github.com/Dash10107/Leetcode/tree/master/0887-super-egg-drop) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Dash10107/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dash10107/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0909-stone-game](https://github.com/Dash10107/Leetcode/tree/master/0909-stone-game) |
@@ -1904,6 +1906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Dash10107/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Dash10107/Leetcode/tree/master/0732-my-calendar-iii) |
 | [0853-most-profit-assigning-work](https://github.com/Dash10107/Leetcode/tree/master/0853-most-profit-assigning-work) |
+| [0887-super-egg-drop](https://github.com/Dash10107/Leetcode/tree/master/0887-super-egg-drop) |
 | [1046-max-consecutive-ones-iii](https://github.com/Dash10107/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Dash10107/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1201-ugly-number-iii](https://github.com/Dash10107/Leetcode/tree/master/1201-ugly-number-iii) |
