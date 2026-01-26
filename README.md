@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/Dash10107/Leetcode/tree/master/1137-height-checker) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Dash10107/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1184-car-pooling](https://github.com/Dash10107/Leetcode/tree/master/1184-car-pooling) |
+| [1200-minimum-absolute-difference](https://github.com/Dash10107/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Dash10107/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1219-longest-well-performing-interval](https://github.com/Dash10107/Leetcode/tree/master/1219-longest-well-performing-interval) |
 | [1220-smallest-sufficient-team](https://github.com/Dash10107/Leetcode/tree/master/1220-smallest-sufficient-team) |
@@ -1654,6 +1655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Dash10107/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1137-height-checker](https://github.com/Dash10107/Leetcode/tree/master/1137-height-checker) |
 | [1184-car-pooling](https://github.com/Dash10107/Leetcode/tree/master/1184-car-pooling) |
+| [1200-minimum-absolute-difference](https://github.com/Dash10107/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1222-remove-covered-intervals](https://github.com/Dash10107/Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Dash10107/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dash10107/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
