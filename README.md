@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/Dash10107/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2488-count-subarrays-with-median-k](https://github.com/Dash10107/Leetcode/tree/master/2488-count-subarrays-with-median-k) |
 | [2505-number-of-good-paths](https://github.com/Dash10107/Leetcode/tree/master/2505-number-of-good-paths) |
+| [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Dash10107/Leetcode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Dash10107/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/Dash10107/Leetcode/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Dash10107/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
@@ -2787,6 +2788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1361-validate-binary-tree-nodes](https://github.com/Dash10107/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Dash10107/Leetcode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Dash10107/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Doubly-Linked List
 |  |
