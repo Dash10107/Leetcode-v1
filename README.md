@@ -709,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3646-sum-of-good-subsequences](https://github.com/Dash10107/Leetcode/tree/master/3646-sum-of-good-subsequences) |
 | [3647-zero-array-transformation-iii](https://github.com/Dash10107/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Dash10107/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Dash10107/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Dash10107/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3654-minimum-array-sum](https://github.com/Dash10107/Leetcode/tree/master/3654-minimum-array-sum) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/Dash10107/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
@@ -1331,6 +1332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3631-count-k-reducible-numbers-less-than-n](https://github.com/Dash10107/Leetcode/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 | [3646-sum-of-good-subsequences](https://github.com/Dash10107/Leetcode/tree/master/3646-sum-of-good-subsequences) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Dash10107/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Dash10107/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3654-minimum-array-sum](https://github.com/Dash10107/Leetcode/tree/master/3654-minimum-array-sum) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/Dash10107/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Dash10107/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -1433,6 +1435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Dash10107/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/Dash10107/Leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Dash10107/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Dash10107/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/Dash10107/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Dash10107/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Dash10107/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
