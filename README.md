@@ -627,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2892-check-if-array-is-good](https://github.com/Dash10107/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Dash10107/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Dash10107/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/Dash10107/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3034-points-that-intersect-with-cars](https://github.com/Dash10107/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Dash10107/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -906,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2881-split-strings-by-separator](https://github.com/Dash10107/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/Dash10107/Leetcode/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Dash10107/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3055-maximum-odd-binary-number](https://github.com/Dash10107/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3110-score-of-a-string](https://github.com/Dash10107/Leetcode/tree/master/3110-score-of-a-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Dash10107/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
@@ -2703,6 +2705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Dash10107/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Dash10107/Leetcode/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Dash10107/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Dash10107/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/Dash10107/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Dash10107/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Dash10107/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -2792,6 +2795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1361-validate-binary-tree-nodes](https://github.com/Dash10107/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Dash10107/Leetcode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Dash10107/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Dash10107/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Doubly-Linked List
 |  |
