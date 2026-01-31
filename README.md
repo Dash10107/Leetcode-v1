@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Dash10107/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Dash10107/Leetcode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Dash10107/Leetcode/tree/master/0740-delete-and-earn) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Dash10107/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-prefix-and-suffix-search](https://github.com/Dash10107/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0753-open-the-lock](https://github.com/Dash10107/Leetcode/tree/master/0753-open-the-lock) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Dash10107/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
@@ -1935,6 +1936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Dash10107/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0731-my-calendar-ii](https://github.com/Dash10107/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Dash10107/Leetcode/tree/master/0732-my-calendar-iii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Dash10107/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0853-most-profit-assigning-work](https://github.com/Dash10107/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0887-super-egg-drop](https://github.com/Dash10107/Leetcode/tree/master/0887-super-egg-drop) |
 | [1046-max-consecutive-ones-iii](https://github.com/Dash10107/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
