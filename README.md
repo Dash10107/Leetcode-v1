@@ -712,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/Dash10107/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3637-trionic-array-i](https://github.com/Dash10107/Leetcode/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Dash10107/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3640-trionic-array-ii](https://github.com/Dash10107/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3646-sum-of-good-subsequences](https://github.com/Dash10107/Leetcode/tree/master/3646-sum-of-good-subsequences) |
 | [3647-zero-array-transformation-iii](https://github.com/Dash10107/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Dash10107/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -1339,6 +1340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Dash10107/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Dash10107/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3631-count-k-reducible-numbers-less-than-n](https://github.com/Dash10107/Leetcode/tree/master/3631-count-k-reducible-numbers-less-than-n) |
+| [3640-trionic-array-ii](https://github.com/Dash10107/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3646-sum-of-good-subsequences](https://github.com/Dash10107/Leetcode/tree/master/3646-sum-of-good-subsequences) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Dash10107/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Dash10107/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
