@@ -665,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-find-the-sum-of-the-power-of-all-subsequences](https://github.com/Dash10107/Leetcode/tree/master/3345-find-the-sum-of-the-power-of-all-subsequences) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Dash10107/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3373-maximum-prime-difference](https://github.com/Dash10107/Leetcode/tree/master/3373-maximum-prime-difference) |
+| [3379-transformed-array](https://github.com/Dash10107/Leetcode/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Dash10107/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Dash10107/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Dash10107/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
@@ -2559,6 +2560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2886-faulty-keyboard](https://github.com/Dash10107/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Dash10107/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3336-water-bottles-ii](https://github.com/Dash10107/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/Dash10107/Leetcode/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/Dash10107/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Dash10107/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Dash10107/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
