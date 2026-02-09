@@ -1393,6 +1393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/Dash10107/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1873-longest-nice-substring](https://github.com/Dash10107/Leetcode/tree/master/1873-longest-nice-substring) |
 ## Matrix
 |  |
@@ -1553,6 +1554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-video-stitching](https://github.com/Dash10107/Leetcode/tree/master/1081-video-stitching) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dash10107/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1285-balance-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Dash10107/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Dash10107/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Dash10107/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -2065,6 +2067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Dash10107/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [1382-balance-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Dash10107/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -2152,6 +2155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dash10107/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1361-validate-binary-tree-nodes](https://github.com/Dash10107/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1380-number-of-closed-islands](https://github.com/Dash10107/Leetcode/tree/master/1380-number-of-closed-islands) |
+| [1382-balance-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1428-jump-game-iii](https://github.com/Dash10107/Leetcode/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Dash10107/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Dash10107/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -2334,6 +2338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Dash10107/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [1382-balance-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Dash10107/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -2677,6 +2682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dash10107/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Dash10107/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Queue
 |  |
 | ------- |
