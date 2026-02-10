@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Dash10107/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Dash10107/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Dash10107/Leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Dash10107/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Dash10107/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1680-count-all-possible-routes](https://github.com/Dash10107/Leetcode/tree/master/1680-count-all-possible-routes) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Dash10107/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -1290,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Dash10107/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Dash10107/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dash10107/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Dash10107/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1680-count-all-possible-routes](https://github.com/Dash10107/Leetcode/tree/master/1680-count-all-possible-routes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dash10107/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Dash10107/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -1571,6 +1573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Dash10107/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Dash10107/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Dash10107/Leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Dash10107/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Dash10107/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dash10107/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Dash10107/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -1975,6 +1978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Dash10107/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dash10107/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Dash10107/Leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Dash10107/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Dash10107/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Dash10107/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Dash10107/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
