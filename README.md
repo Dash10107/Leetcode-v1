@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3680-count-connected-components-in-lcm-graph](https://github.com/Dash10107/Leetcode/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3699-count-special-subsequences](https://github.com/Dash10107/Leetcode/tree/master/3699-count-special-subsequences) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dash10107/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Dash10107/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Dash10107/Leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dash10107/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Dash10107/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-count-special-subsequences](https://github.com/Dash10107/Leetcode/tree/master/3699-count-special-subsequences) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Dash10107/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dash10107/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Dash10107/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Dash10107/Leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Dash10107/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Dash10107/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -1404,6 +1406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1873-longest-nice-substring](https://github.com/Dash10107/Leetcode/tree/master/1873-longest-nice-substring) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dash10107/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Dash10107/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -1532,6 +1535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/Dash10107/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Dash10107/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dash10107/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Dash10107/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Dash10107/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Dash10107/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Greedy
@@ -2805,6 +2809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Dash10107/Leetcode/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3454-separate-squares-ii](https://github.com/Dash10107/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dash10107/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Dash10107/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dash10107/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Dash10107/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
