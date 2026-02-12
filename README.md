@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/Dash10107/Leetcode/tree/master/3678-design-task-manager) |
 | [3680-count-connected-components-in-lcm-graph](https://github.com/Dash10107/Leetcode/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3699-count-special-subsequences](https://github.com/Dash10107/Leetcode/tree/master/3699-count-special-subsequences) |
+| [3713-longest-balanced-substring-i](https://github.com/Dash10107/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dash10107/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Dash10107/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Dash10107/Leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -954,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3631-count-k-reducible-numbers-less-than-n](https://github.com/Dash10107/Leetcode/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 | [3634-find-mirror-score-of-a-string](https://github.com/Dash10107/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Dash10107/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Dash10107/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Dash10107/Leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dash10107/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dash10107/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1892,6 +1894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Dash10107/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3519-find-the-number-of-winning-players](https://github.com/Dash10107/Leetcode/tree/master/3519-find-the-number-of-winning-players) |
 | [3583-count-special-triplets](https://github.com/Dash10107/Leetcode/tree/master/3583-count-special-triplets) |
+| [3713-longest-balanced-substring-i](https://github.com/Dash10107/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dash10107/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Dash10107/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Dash10107/Leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
@@ -2684,6 +2687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Dash10107/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3699-count-special-subsequences](https://github.com/Dash10107/Leetcode/tree/master/3699-count-special-subsequences) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Dash10107/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3713-longest-balanced-substring-i](https://github.com/Dash10107/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Dash10107/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dash10107/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Dash10107/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
