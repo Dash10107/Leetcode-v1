@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3680-count-connected-components-in-lcm-graph](https://github.com/Dash10107/Leetcode/tree/master/3680-count-connected-components-in-lcm-graph) |
 | [3699-count-special-subsequences](https://github.com/Dash10107/Leetcode/tree/master/3699-count-special-subsequences) |
 | [3713-longest-balanced-substring-i](https://github.com/Dash10107/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Dash10107/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dash10107/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Dash10107/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Dash10107/Leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -956,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-find-mirror-score-of-a-string](https://github.com/Dash10107/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Dash10107/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Dash10107/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Dash10107/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Dash10107/Leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Dash10107/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dash10107/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1541,6 +1543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Dash10107/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Dash10107/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Dash10107/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3714-longest-balanced-substring-ii](https://github.com/Dash10107/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dash10107/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Dash10107/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Dash10107/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
