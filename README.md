@@ -1250,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Dash10107/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dash10107/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Dash10107/Leetcode/tree/master/0740-delete-and-earn) |
+| [0799-champagne-tower](https://github.com/Dash10107/Leetcode/tree/master/0799-champagne-tower) |
 | [0818-race-car](https://github.com/Dash10107/Leetcode/tree/master/0818-race-car) |
 | [0826-soup-servings](https://github.com/Dash10107/Leetcode/tree/master/0826-soup-servings) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Dash10107/Leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
