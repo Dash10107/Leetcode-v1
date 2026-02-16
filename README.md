@@ -1409,6 +1409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dash10107/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Dash10107/Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Dash10107/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dash10107/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Dash10107/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Dash10107/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -2424,6 +2425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Dash10107/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Dash10107/Leetcode/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/Dash10107/Leetcode/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/Dash10107/Leetcode/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Dash10107/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Dash10107/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Dash10107/Leetcode/tree/master/0231-power-of-two) |
