@@ -592,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Dash10107/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Dash10107/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Dash10107/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
+| [2386-find-the-k-sum-of-an-array](https://github.com/Dash10107/Leetcode/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Dash10107/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2390-naming-a-company](https://github.com/Dash10107/Leetcode/tree/master/2390-naming-a-company) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Dash10107/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1754,6 +1755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Dash10107/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Dash10107/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Dash10107/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2386-find-the-k-sum-of-an-array](https://github.com/Dash10107/Leetcode/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Dash10107/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Dash10107/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/Dash10107/Leetcode/tree/master/2402-meeting-rooms-iii) |
@@ -1836,6 +1838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Dash10107/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2329-maximum-product-after-k-increments](https://github.com/Dash10107/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Dash10107/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2386-find-the-k-sum-of-an-array](https://github.com/Dash10107/Leetcode/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Dash10107/Leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2402-meeting-rooms-iii](https://github.com/Dash10107/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/Dash10107/Leetcode/tree/master/2429-design-a-food-rating-system) |
