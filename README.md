@@ -848,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-prefix-and-suffix-search](https://github.com/Dash10107/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0753-open-the-lock](https://github.com/Dash10107/Leetcode/tree/master/0753-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/Dash10107/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/Dash10107/Leetcode/tree/master/0761-special-binary-string) |
 | [0771-jewels-and-stones](https://github.com/Dash10107/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0778-reorganize-string](https://github.com/Dash10107/Leetcode/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/Dash10107/Leetcode/tree/master/0800-letter-case-permutation) |
@@ -1423,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Dash10107/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Dash10107/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0761-special-binary-string](https://github.com/Dash10107/Leetcode/tree/master/0761-special-binary-string) |
 | [1014-k-closest-points-to-origin](https://github.com/Dash10107/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dash10107/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -1705,6 +1707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Dash10107/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Dash10107/Leetcode/tree/master/0726-number-of-atoms) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Dash10107/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/Dash10107/Leetcode/tree/master/0761-special-binary-string) |
 | [0778-reorganize-string](https://github.com/Dash10107/Leetcode/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Dash10107/Leetcode/tree/master/0807-custom-sort-string) |
 | [0853-most-profit-assigning-work](https://github.com/Dash10107/Leetcode/tree/master/0853-most-profit-assigning-work) |
