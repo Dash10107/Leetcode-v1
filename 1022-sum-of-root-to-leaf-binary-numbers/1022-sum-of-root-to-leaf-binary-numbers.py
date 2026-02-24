@@ -6,13 +6,9 @@
 #         self.right = right
 class Solution:
     def sumRootToLeaf(self, root: Optional[TreeNode]) -> int:
-        self.ans = 0
         def dfs(node,curr):
-            if node:
-                if not node.left and not node.right:
-                    curr+=str(node.val)
-                    self.ans+=int(curr,2)
-                dfs(node.left,curr+str(node.val))
-                dfs(node.right,curr+str(node.val))
-        dfs(root,'')
-        return self.ans
+            if not node:return 0
+            curr =  curr<<1 | node.val
+            if not node.left and not node.right:return curr
+            return dfs(node.left,curr)+dfs(node.right,curr)
+        return dfs(root,0)
