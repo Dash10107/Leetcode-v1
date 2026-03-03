@@ -1,8 +1,13 @@
 class Solution:
-    def maxProfit(self, p: List[int]) -> int:
-        m = p[0];ans=0;n=len(p)
-        for i in range(n):
-            c = p[i]-m
-            ans = max(ans,c)
-            m = min(m,p[i])
-        return ans
+    def maxProfit(self, prices: List[int]) -> int:
+        n=len(prices)
+        @lru_cache(None)
+        def func(i,last,left):
+            if i==n or left==0:return 0 
+            ans = func(i+1,last,left)
+            if last:
+                ans = max(ans,prices[i]+func(i+1,0,left-1))
+            else:
+                ans = max(ans,-prices[i]+func(i+1,1,left))
+            return ans
+        return func(0,0,1)
