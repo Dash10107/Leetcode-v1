@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/Dash10107/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Dash10107/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0993-tallest-billboard](https://github.com/Dash10107/Leetcode/tree/master/0993-tallest-billboard) |
+| [0994-rotting-oranges](https://github.com/Dash10107/Leetcode/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/Dash10107/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/Dash10107/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Dash10107/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -1471,6 +1472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-shortest-path-to-get-all-keys](https://github.com/Dash10107/Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0945-snakes-and-ladders](https://github.com/Dash10107/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/Dash10107/Leetcode/tree/master/0971-shortest-bridge) |
+| [0994-rotting-oranges](https://github.com/Dash10107/Leetcode/tree/master/0994-rotting-oranges) |
 | [1022-unique-paths-iii](https://github.com/Dash10107/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Dash10107/Leetcode/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Dash10107/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
@@ -2318,6 +2320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Dash10107/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0971-shortest-bridge](https://github.com/Dash10107/Leetcode/tree/master/0971-shortest-bridge) |
+| [0994-rotting-oranges](https://github.com/Dash10107/Leetcode/tree/master/0994-rotting-oranges) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Dash10107/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
