@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-count-number-of-possible-root-nodes](https://github.com/Dash10107/Leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Dash10107/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Dash10107/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2661-first-completely-painted-row-or-column](https://github.com/Dash10107/Leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/Dash10107/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2755-extra-characters-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2892-check-if-array-is-good](https://github.com/Dash10107/Leetcode/tree/master/2892-check-if-array-is-good) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Dash10107/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Dash10107/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Dash10107/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2661-first-completely-painted-row-or-column](https://github.com/Dash10107/Leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/Dash10107/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2705-minimum-impossible-or](https://github.com/Dash10107/Leetcode/tree/master/2705-minimum-impossible-or) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Dash10107/Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -1504,6 +1506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Dash10107/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2625-increment-submatrices-by-one](https://github.com/Dash10107/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Dash10107/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2661-first-completely-painted-row-or-column](https://github.com/Dash10107/Leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Dash10107/Leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Dash10107/Leetcode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
