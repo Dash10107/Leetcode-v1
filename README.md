@@ -914,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Dash10107/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Dash10107/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Dash10107/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Dash10107/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1804-maximum-binary-string-after-change](https://github.com/Dash10107/Leetcode/tree/master/1804-maximum-binary-string-after-change) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Dash10107/Leetcode/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1873-longest-nice-substring](https://github.com/Dash10107/Leetcode/tree/master/1873-longest-nice-substring) |
