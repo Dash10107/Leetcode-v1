@@ -683,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-maximum-points-after-enemy-battles](https://github.com/Dash10107/Leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Dash10107/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Dash10107/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Dash10107/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Dash10107/Leetcode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dash10107/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/Dash10107/Leetcode/tree/master/3308-apply-operations-to-make-string-empty) |
@@ -1146,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Dash10107/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Dash10107/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3280-convert-date-to-binary](https://github.com/Dash10107/Leetcode/tree/master/3280-convert-date-to-binary) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Dash10107/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3336-water-bottles-ii](https://github.com/Dash10107/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3373-maximum-prime-difference](https://github.com/Dash10107/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Dash10107/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -1710,6 +1712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Dash10107/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/Dash10107/Leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dash10107/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Dash10107/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dash10107/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Dash10107/Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dash10107/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1909,6 +1912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Dash10107/Leetcode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Dash10107/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Dash10107/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3386-find-edges-in-shortest-paths](https://github.com/Dash10107/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Dash10107/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dash10107/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -2095,6 +2099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Dash10107/Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Dash10107/Leetcode/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Dash10107/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Dash10107/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Dash10107/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Dash10107/Leetcode/tree/master/3454-separate-squares-ii) |
