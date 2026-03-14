@@ -902,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Dash10107/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1397-search-suggestions-system](https://github.com/Dash10107/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Dash10107/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dash10107/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Dash10107/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Dash10107/Leetcode/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Dash10107/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -1038,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/Dash10107/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Dash10107/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Dash10107/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dash10107/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1418-fair-distribution-of-cookies](https://github.com/Dash10107/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1825-find-minimum-time-to-finish-all-jobs](https://github.com/Dash10107/Leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1906-maximize-score-after-n-operations](https://github.com/Dash10107/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
