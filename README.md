@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/Dash10107/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0993-tallest-billboard](https://github.com/Dash10107/Leetcode/tree/master/0993-tallest-billboard) |
 | [0994-rotting-oranges](https://github.com/Dash10107/Leetcode/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/Dash10107/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/Dash10107/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/Dash10107/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Dash10107/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -1573,6 +1574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Dash10107/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Dash10107/Leetcode/tree/master/0732-my-calendar-iii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Dash10107/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Dash10107/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Dash10107/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/Dash10107/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/Dash10107/Leetcode/tree/master/1109-corporate-flight-bookings) |
@@ -2024,6 +2026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Dash10107/Leetcode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Dash10107/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Dash10107/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Dash10107/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Dash10107/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Dash10107/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/Dash10107/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -2088,6 +2091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dash10107/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0853-most-profit-assigning-work](https://github.com/Dash10107/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0887-super-egg-drop](https://github.com/Dash10107/Leetcode/tree/master/0887-super-egg-drop) |
+| [1004-max-consecutive-ones-iii](https://github.com/Dash10107/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Dash10107/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Dash10107/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1201-ugly-number-iii](https://github.com/Dash10107/Leetcode/tree/master/1201-ugly-number-iii) |
