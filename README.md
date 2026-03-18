@@ -676,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/Dash10107/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
 | [3034-points-that-intersect-with-cars](https://github.com/Dash10107/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Dash10107/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dash10107/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Dash10107/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3104-happy-students](https://github.com/Dash10107/Leetcode/tree/master/3104-happy-students) |
 | [3151-minimum-processing-time](https://github.com/Dash10107/Leetcode/tree/master/3151-minimum-processing-time) |
@@ -1548,6 +1549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Dash10107/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Dash10107/Leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dash10107/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Dash10107/Leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Dash10107/Leetcode/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Dash10107/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
@@ -1619,6 +1621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Dash10107/Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Dash10107/Leetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [3034-points-that-intersect-with-cars](https://github.com/Dash10107/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dash10107/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Dash10107/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Dash10107/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Dash10107/Leetcode/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
