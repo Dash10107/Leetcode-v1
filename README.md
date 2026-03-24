@@ -670,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Dash10107/Leetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2881-split-strings-by-separator](https://github.com/Dash10107/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2892-check-if-array-is-good](https://github.com/Dash10107/Leetcode/tree/master/2892-check-if-array-is-good) |
+| [2906-construct-product-matrix](https://github.com/Dash10107/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Dash10107/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Dash10107/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -1557,6 +1558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/Dash10107/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Dash10107/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Dash10107/Leetcode/tree/master/2661-first-completely-painted-row-or-column) |
+| [2906-construct-product-matrix](https://github.com/Dash10107/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dash10107/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Dash10107/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -1632,6 +1634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Dash10107/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Dash10107/Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Dash10107/Leetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
+| [2906-construct-product-matrix](https://github.com/Dash10107/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3034-points-that-intersect-with-cars](https://github.com/Dash10107/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dash10107/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Dash10107/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
