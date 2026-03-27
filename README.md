@@ -675,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/Dash10107/Leetcode/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Dash10107/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dash10107/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Dash10107/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dash10107/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Dash10107/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -1163,6 +1164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2663-distribute-money-to-maximum-children](https://github.com/Dash10107/Leetcode/tree/master/2663-distribute-money-to-maximum-children) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Dash10107/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Dash10107/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dash10107/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/Dash10107/Leetcode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Dash10107/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3055-maximum-odd-binary-number](https://github.com/Dash10107/Leetcode/tree/master/3055-maximum-odd-binary-number) |
@@ -1564,6 +1566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-first-completely-painted-row-or-column](https://github.com/Dash10107/Leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [2906-construct-product-matrix](https://github.com/Dash10107/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dash10107/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dash10107/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Dash10107/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Dash10107/Leetcode/tree/master/3398-make-a-square-with-the-same-color) |
@@ -2772,6 +2775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Dash10107/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2483-task-scheduler-ii](https://github.com/Dash10107/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2886-faulty-keyboard](https://github.com/Dash10107/Leetcode/tree/master/2886-faulty-keyboard) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dash10107/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Dash10107/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3336-water-bottles-ii](https://github.com/Dash10107/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/Dash10107/Leetcode/tree/master/3379-transformed-array) |
