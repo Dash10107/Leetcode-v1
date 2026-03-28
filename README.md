@@ -648,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2505-number-of-good-paths](https://github.com/Dash10107/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2529-range-product-queries-of-powers](https://github.com/Dash10107/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Dash10107/Leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
+| [2573-find-the-string-with-lcp](https://github.com/Dash10107/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Dash10107/Leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Dash10107/Leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Dash10107/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
@@ -985,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Dash10107/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2510-maximum-deletions-on-a-string](https://github.com/Dash10107/Leetcode/tree/master/2510-maximum-deletions-on-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Dash10107/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-find-the-string-with-lcp](https://github.com/Dash10107/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2615-make-number-of-distinct-characters-equal](https://github.com/Dash10107/Leetcode/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2701-subsequence-with-the-minimum-score](https://github.com/Dash10107/Leetcode/tree/master/2701-subsequence-with-the-minimum-score) |
 | [2727-number-of-senior-citizens](https://github.com/Dash10107/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -1417,6 +1419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Dash10107/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2444-longest-ideal-subsequence](https://github.com/Dash10107/Leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2510-maximum-deletions-on-a-string](https://github.com/Dash10107/Leetcode/tree/master/2510-maximum-deletions-on-a-string) |
+| [2573-find-the-string-with-lcp](https://github.com/Dash10107/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Dash10107/Leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Dash10107/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2755-extra-characters-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -1561,6 +1564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Dash10107/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Dash10107/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Dash10107/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2573-find-the-string-with-lcp](https://github.com/Dash10107/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/Dash10107/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Dash10107/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Dash10107/Leetcode/tree/master/2661-first-completely-painted-row-or-column) |
@@ -1747,6 +1751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Dash10107/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Dash10107/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Dash10107/Leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
+| [2573-find-the-string-with-lcp](https://github.com/Dash10107/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Dash10107/Leetcode/tree/master/2592-maximize-greatness-of-an-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Dash10107/Leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Dash10107/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
@@ -3037,6 +3042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Dash10107/Leetcode/tree/master/0200-number-of-islands) |
 | [1361-validate-binary-tree-nodes](https://github.com/Dash10107/Leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [2573-find-the-string-with-lcp](https://github.com/Dash10107/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dash10107/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
