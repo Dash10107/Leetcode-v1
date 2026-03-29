@@ -1162,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Dash10107/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Dash10107/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Dash10107/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
+| [2485-find-the-pivot-integer](https://github.com/Dash10107/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Dash10107/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2647-split-the-array-to-make-coprime-products](https://github.com/Dash10107/Leetcode/tree/master/2647-split-the-array-to-make-coprime-products) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Dash10107/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -1641,6 +1642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Dash10107/Leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Dash10107/Leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Dash10107/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2485-find-the-pivot-integer](https://github.com/Dash10107/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2488-count-subarrays-with-median-k](https://github.com/Dash10107/Leetcode/tree/master/2488-count-subarrays-with-median-k) |
 | [2529-range-product-queries-of-powers](https://github.com/Dash10107/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Dash10107/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
