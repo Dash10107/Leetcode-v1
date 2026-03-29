@@ -518,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Dash10107/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Dash10107/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1499-maximum-performance-of-a-team](https://github.com/Dash10107/Leetcode/tree/master/1499-maximum-performance-of-a-team) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Dash10107/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1503-reducing-dishes](https://github.com/Dash10107/Leetcode/tree/master/1503-reducing-dishes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Dash10107/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/Dash10107/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -1853,6 +1854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-jump-game-v](https://github.com/Dash10107/Leetcode/tree/master/1466-jump-game-v) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Dash10107/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/Dash10107/Leetcode/tree/master/1499-maximum-performance-of-a-team) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Dash10107/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1503-reducing-dishes](https://github.com/Dash10107/Leetcode/tree/master/1503-reducing-dishes) |
 | [1539-diagonal-traverse-ii](https://github.com/Dash10107/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dash10107/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
