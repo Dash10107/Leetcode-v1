@@ -1018,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-count-the-number-of-special-characters-i](https://github.com/Dash10107/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dash10107/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3462-vowels-game-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Dash10107/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Dash10107/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/Dash10107/Leetcode/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Dash10107/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -1788,6 +1789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dash10107/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dash10107/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Dash10107/Leetcode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Dash10107/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Dash10107/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Dash10107/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Dash10107/Leetcode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -2971,6 +2973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Dash10107/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1508-longest-happy-prefix](https://github.com/Dash10107/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [2510-maximum-deletions-on-a-string](https://github.com/Dash10107/Leetcode/tree/master/2510-maximum-deletions-on-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Dash10107/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Rolling Hash
 |  |
 | ------- |
