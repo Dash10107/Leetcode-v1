@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1708-design-parking-system](https://github.com/Dash10107/Leetcode/tree/master/1708-design-parking-system) |
 | [1767-design-front-middle-back-queue](https://github.com/Dash10107/Leetcode/tree/master/1767-design-front-middle-back-queue) |
 | [2023-design-movie-rental-system](https://github.com/Dash10107/Leetcode/tree/master/2023-design-movie-rental-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/Dash10107/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2102-sequentially-ordinal-rank-tracker](https://github.com/Dash10107/Leetcode/tree/master/2102-sequentially-ordinal-rank-tracker) |
 | [2169-simple-bank-system](https://github.com/Dash10107/Leetcode/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/Dash10107/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -2793,6 +2794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Dash10107/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1708-design-parking-system](https://github.com/Dash10107/Leetcode/tree/master/1708-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/Dash10107/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2069-walking-robot-simulation-ii](https://github.com/Dash10107/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Dash10107/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dash10107/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Dash10107/Leetcode/tree/master/2169-simple-bank-system) |
