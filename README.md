@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dash10107/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Dash10107/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Dash10107/Leetcode/tree/master/2450-minimum-replacements-to-sort-the-array) |
+| [2463-minimum-total-distance-traveled](https://github.com/Dash10107/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Dash10107/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Dash10107/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2483-task-scheduler-ii](https://github.com/Dash10107/Leetcode/tree/master/2483-task-scheduler-ii) |
@@ -1443,6 +1444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Dash10107/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Dash10107/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2444-longest-ideal-subsequence](https://github.com/Dash10107/Leetcode/tree/master/2444-longest-ideal-subsequence) |
+| [2463-minimum-total-distance-traveled](https://github.com/Dash10107/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2510-maximum-deletions-on-a-string](https://github.com/Dash10107/Leetcode/tree/master/2510-maximum-deletions-on-a-string) |
 | [2573-find-the-string-with-lcp](https://github.com/Dash10107/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Dash10107/Leetcode/tree/master/2652-count-number-of-possible-root-nodes) |
@@ -1924,6 +1926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Dash10107/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/Dash10107/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dash10107/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2463-minimum-total-distance-traveled](https://github.com/Dash10107/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Dash10107/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2505-number-of-good-paths](https://github.com/Dash10107/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Dash10107/Leetcode/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
