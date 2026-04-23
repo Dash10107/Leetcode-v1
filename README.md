@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Dash10107/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Dash10107/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Dash10107/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2121-intervals-between-identical-elements](https://github.com/Dash10107/Leetcode/tree/master/2121-intervals-between-identical-elements) |
 | [2169-simple-bank-system](https://github.com/Dash10107/Leetcode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Dash10107/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Dash10107/Leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/Dash10107/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Dash10107/Leetcode/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Dash10107/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2121-intervals-between-identical-elements](https://github.com/Dash10107/Leetcode/tree/master/2121-intervals-between-identical-elements) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dash10107/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Dash10107/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Dash10107/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -1680,6 +1682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/Dash10107/Leetcode/tree/master/2055-plates-between-candles) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Dash10107/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/Dash10107/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2121-intervals-between-identical-elements](https://github.com/Dash10107/Leetcode/tree/master/2121-intervals-between-identical-elements) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Dash10107/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Dash10107/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Dash10107/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
