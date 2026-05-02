@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Dash10107/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0845-longest-mountain-in-array](https://github.com/Dash10107/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0853-most-profit-assigning-work](https://github.com/Dash10107/Leetcode/tree/master/0853-most-profit-assigning-work) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Dash10107/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0859-design-circular-deque](https://github.com/Dash10107/Leetcode/tree/master/0859-design-circular-deque) |
 | [0869-similar-string-groups](https://github.com/Dash10107/Leetcode/tree/master/0869-similar-string-groups) |
 | [0874-walking-robot-simulation](https://github.com/Dash10107/Leetcode/tree/master/0874-walking-robot-simulation) |
@@ -1765,6 +1766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Dash10107/Leetcode/tree/master/0778-reorganize-string) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Dash10107/Leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0853-most-profit-assigning-work](https://github.com/Dash10107/Leetcode/tree/master/0853-most-profit-assigning-work) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Dash10107/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0876-hand-of-straights](https://github.com/Dash10107/Leetcode/tree/master/0876-hand-of-straights) |
 | [0891-score-after-flipping-matrix](https://github.com/Dash10107/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Dash10107/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -1904,6 +1906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Dash10107/Leetcode/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Dash10107/Leetcode/tree/master/0807-custom-sort-string) |
 | [0853-most-profit-assigning-work](https://github.com/Dash10107/Leetcode/tree/master/0853-most-profit-assigning-work) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Dash10107/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0876-hand-of-straights](https://github.com/Dash10107/Leetcode/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/Dash10107/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0937-reorder-data-in-log-files](https://github.com/Dash10107/Leetcode/tree/master/0937-reorder-data-in-log-files) |
@@ -2032,6 +2035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Dash10107/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Dash10107/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/Dash10107/Leetcode/tree/master/0778-reorganize-string) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Dash10107/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Dash10107/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/Dash10107/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Dash10107/Leetcode/tree/master/1127-last-stone-weight) |
