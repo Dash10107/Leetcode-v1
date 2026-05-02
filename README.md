@@ -1146,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Dash10107/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0679-24-game](https://github.com/Dash10107/Leetcode/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dash10107/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/Dash10107/Leetcode/tree/master/0788-rotated-digits) |
 | [0796-reaching-points](https://github.com/Dash10107/Leetcode/tree/master/0796-reaching-points) |
 | [0826-soup-servings](https://github.com/Dash10107/Leetcode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/Dash10107/Leetcode/tree/master/0830-largest-triangle-area) |
@@ -1379,6 +1380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Dash10107/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dash10107/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Dash10107/Leetcode/tree/master/0740-delete-and-earn) |
+| [0788-rotated-digits](https://github.com/Dash10107/Leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Dash10107/Leetcode/tree/master/0799-champagne-tower) |
 | [0818-race-car](https://github.com/Dash10107/Leetcode/tree/master/0818-race-car) |
 | [0826-soup-servings](https://github.com/Dash10107/Leetcode/tree/master/0826-soup-servings) |
