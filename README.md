@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Dash10107/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dash10107/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1666-make-the-string-great](https://github.com/Dash10107/Leetcode/tree/master/1666-make-the-string-great) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Dash10107/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Dash10107/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2104-sum-of-subarray-ranges](https://github.com/Dash10107/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2211-count-collisions-on-a-road](https://github.com/Dash10107/Leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Dash10107/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Dash10107/Leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Dash10107/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Dash10107/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Dash10107/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1680-count-all-possible-routes](https://github.com/Dash10107/Leetcode/tree/master/1680-count-all-possible-routes) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Dash10107/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -1542,6 +1544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Dash10107/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Dash10107/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Dash10107/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Dash10107/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Dash10107/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2104-sum-of-subarray-ranges](https://github.com/Dash10107/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Dash10107/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
@@ -1785,6 +1788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Dash10107/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Dash10107/Leetcode/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Dash10107/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Dash10107/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Dash10107/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Dash10107/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Dash10107/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
