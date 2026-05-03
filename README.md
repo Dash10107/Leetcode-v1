@@ -938,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Dash10107/Leetcode/tree/master/0761-special-binary-string) |
 | [0771-jewels-and-stones](https://github.com/Dash10107/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0778-reorganize-string](https://github.com/Dash10107/Leetcode/tree/master/0778-reorganize-string) |
+| [0796-rotate-string](https://github.com/Dash10107/Leetcode/tree/master/0796-rotate-string) |
 | [0800-letter-case-permutation](https://github.com/Dash10107/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0807-custom-sort-string](https://github.com/Dash10107/Leetcode/tree/master/0807-custom-sort-string) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Dash10107/Leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -3069,6 +3070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Dash10107/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/Dash10107/Leetcode/tree/master/0796-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/Dash10107/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [2510-maximum-deletions-on-a-string](https://github.com/Dash10107/Leetcode/tree/master/2510-maximum-deletions-on-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Dash10107/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
