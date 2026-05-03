@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Dash10107/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Dash10107/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2751-robot-collisions](https://github.com/Dash10107/Leetcode/tree/master/2751-robot-collisions) |
+| [2945-find-maximum-non-decreasing-array-length](https://github.com/Dash10107/Leetcode/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dash10107/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Dash10107/Leetcode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3634-find-mirror-score-of-a-string](https://github.com/Dash10107/Leetcode/tree/master/3634-find-mirror-score-of-a-string) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/Dash10107/Leetcode/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Dash10107/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2945-find-maximum-non-decreasing-array-length](https://github.com/Dash10107/Leetcode/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dash10107/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Dash10107/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dash10107/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -1488,6 +1490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/Dash10107/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Dash10107/Leetcode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Dash10107/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2945-find-maximum-non-decreasing-array-length](https://github.com/Dash10107/Leetcode/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Dash10107/Leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dash10107/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Dash10107/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -1554,6 +1557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-maximum-score-of-a-good-subarray](https://github.com/Dash10107/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2104-sum-of-subarray-ranges](https://github.com/Dash10107/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Dash10107/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
+| [2945-find-maximum-non-decreasing-array-length](https://github.com/Dash10107/Leetcode/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Dash10107/Leetcode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Dash10107/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Divide and Conquer
@@ -1725,6 +1729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Dash10107/Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2878-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Dash10107/Leetcode/tree/master/2878-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2906-construct-product-matrix](https://github.com/Dash10107/Leetcode/tree/master/2906-construct-product-matrix) |
+| [2945-find-maximum-non-decreasing-array-length](https://github.com/Dash10107/Leetcode/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [3034-points-that-intersect-with-cars](https://github.com/Dash10107/Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dash10107/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Dash10107/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -2264,6 +2269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2701-subsequence-with-the-minimum-score](https://github.com/Dash10107/Leetcode/tree/master/2701-subsequence-with-the-minimum-score) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Dash10107/Leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [2945-find-maximum-non-decreasing-array-length](https://github.com/Dash10107/Leetcode/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Dash10107/Leetcode/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Dash10107/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Dash10107/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -3019,6 +3025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Dash10107/Leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Dash10107/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Dash10107/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2945-find-maximum-non-decreasing-array-length](https://github.com/Dash10107/Leetcode/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Dash10107/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3827-implement-router](https://github.com/Dash10107/Leetcode/tree/master/3827-implement-router) |
 ## Number Theory
@@ -3052,6 +3059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Dash10107/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Dash10107/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Dash10107/Leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [2945-find-maximum-non-decreasing-array-length](https://github.com/Dash10107/Leetcode/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Dash10107/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Shortest Path
 |  |
