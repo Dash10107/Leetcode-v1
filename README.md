@@ -1233,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/Dash10107/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/Dash10107/Leetcode/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Dash10107/Leetcode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Dash10107/Leetcode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Dash10107/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dash10107/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3192-maximum-xor-product](https://github.com/Dash10107/Leetcode/tree/master/3192-maximum-xor-product) |
@@ -1500,6 +1501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dash10107/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Dash10107/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Dash10107/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Dash10107/Leetcode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Dash10107/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dash10107/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Dash10107/Leetcode/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
@@ -2682,6 +2684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Dash10107/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Dash10107/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/Dash10107/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Dash10107/Leetcode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/Dash10107/Leetcode/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Dash10107/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Randomized
@@ -2754,6 +2757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Dash10107/Leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Dash10107/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3025-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/Dash10107/Leetcode/tree/master/3025-minimum-operations-to-form-subsequence-with-target-sum) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Dash10107/Leetcode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Dash10107/Leetcode/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3192-maximum-xor-product](https://github.com/Dash10107/Leetcode/tree/master/3192-maximum-xor-product) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Dash10107/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -2960,6 +2964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1201-ugly-number-iii](https://github.com/Dash10107/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Dash10107/Leetcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1761-count-sorted-vowel-strings](https://github.com/Dash10107/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Dash10107/Leetcode/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Dash10107/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3250-find-the-count-of-monotonic-pairs-i](https://github.com/Dash10107/Leetcode/tree/master/3250-find-the-count-of-monotonic-pairs-i) |
 | [3631-count-k-reducible-numbers-less-than-n](https://github.com/Dash10107/Leetcode/tree/master/3631-count-k-reducible-numbers-less-than-n) |
