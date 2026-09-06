@@ -1,5 +1,206 @@
-# Leetcode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+<div align="center">
+
+# 🚀 LeetCode Solutions — 1000+ Problems Solved
+
+<p>
+  <img src="https://img.shields.io/badge/Problems%20Solved-1000%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problems Solved"/>
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Difficulty-Easy%20%7C%20Medium%20%7C%20Hard-orange?style=for-the-badge" alt="Difficulty"/>
+  <img src="https://img.shields.io/github/stars/Dash10107/Leetcode-v1?style=for-the-badge&color=yellow" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/Dash10107/Leetcode-v1?style=for-the-badge&color=blue" alt="Forks"/>
+  <img src="https://img.shields.io/badge/Auto--synced-LeetHub-black?style=for-the-badge&logo=github" alt="LeetHub"/>
+</p>
+
+<p><strong>A curated collection of 1000+ LeetCode solutions in Python — clean, well-structured, and continuously growing.<br>Built to help you crack coding interviews and master Data Structures & Algorithms.</strong></p>
+
+[🔍 Browse by Topic](#-topics-covered) • [📂 Explore Problems](#-repository-structure) • [⭐ Star this repo](#) • [🤝 Contribute](#-contributing)
+
+</div>
+
+---
+
+## 📊 Stats at a Glance
+
+| 📌 Metric | 🔢 Count |
+|---|---|
+| ✅ Total Problems Solved | **1000+** |
+| 🐍 Language | **Python** |
+| 🟢 Easy | Included |
+| 🟡 Medium | Included |
+| 🔴 Hard | Included |
+| 🔄 Auto-synced via | **LeetHub v2** |
+
+> 🎯 This repository covers problems from **LeetCode #2 to #3900+**, spanning every major topic tested in FAANG & top tech interviews.
+
+---
+
+## 🧠 Why This Repository?
+
+Unlike simple code dumps, this repo is:
+
+- 📁 **Organized by Problem Number** — Easy to find any problem instantly
+- 🗂️ **Topic-tagged** — Every problem mapped to its DSA category (see below)
+- 🔄 **Auto-synced** — Continuously updated using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+- 🧩 **Covers the classics** — Two Sum, LRU Cache, Trapping Rain Water, Word Ladder, and 1000+ more
+- 💡 **Interview-ready** — Focused on patterns used in real coding interviews
+
+---
+
+## 📂 Repository Structure
+
+Each problem lives in its own directory named `{problem-number}-{problem-slug}/`:
+
+```
+Leetcode-v1/
+├── 0053-maximum-subarray/
+│   ├── 0053-maximum-subarray.py   # Solution
+│   └── README.md                  # Problem statement
+├── 0146-lru-cache/
+│   ├── 0146-lru-cache.py
+│   └── README.md
+├── ...
+└── README.md                      # This file
+```
+
+---
+
+## 🗂️ Topics Covered
+
+This repo covers **all major DSA topics** tested in coding interviews:
+
+| 🏷️ Topic | 🏷️ Topic | 🏷️ Topic |
+|---|---|---|
+| Arrays | Hash Table | Linked List |
+| Binary Search | Sliding Window | Two Pointers |
+| Stack | Queue / Deque | Heap / Priority Queue |
+| Trees & BST | Graphs | BFS / DFS |
+| Dynamic Programming | Greedy | Backtracking |
+| Recursion | Sorting | Bit Manipulation |
+| Trie | Union Find | Segment Tree |
+| Math & Number Theory | String Manipulation | Design Problems |
+
+---
+
+## 🔥 Must-Do Problems (Handpicked Highlights)
+
+| # | Problem | Difficulty | Pattern |
+|---|---|---|---|
+| 53 | [Maximum Subarray](./0053-maximum-subarray/) | 🟡 Medium | Kadane's Algorithm |
+| 146 | [LRU Cache](./0146-lru-cache/) | 🟡 Medium | Design / LinkedHashMap |
+| 42 | [Trapping Rain Water](./0042-trapping-rain-water/) | 🔴 Hard | Two Pointers / Stack |
+| 200 | [Number of Islands](./0200-number-of-islands/) | 🟡 Medium | BFS / DFS |
+| 239 | [Sliding Window Maximum](./0239-sliding-window-maximum/) | 🔴 Hard | Monotonic Deque |
+| 295 | [Find Median from Data Stream](./0295-find-median-from-data-stream/) | 🔴 Hard | Heap |
+| 127 | [Word Ladder](./0127-word-ladder/) | 🔴 Hard | BFS |
+| 84 | [Largest Rectangle in Histogram](./0084-largest-rectangle-in-histogram/) | 🔴 Hard | Stack |
+| 312 | [Burst Balloons](./0312-burst-balloons/) | 🔴 Hard | DP |
+| 354 | [Russian Doll Envelopes](./0354-russian-doll-envelopes/) | 🔴 Hard | DP + Binary Search |
+
+---
+
+## 🚀 Getting Started
+
+**Clone the repository:**
+```bash
+git clone https://github.com/Dash10107/Leetcode-v1.git
+cd Leetcode-v1
+```
+
+**Browse a specific problem:**
+```bash
+# Navigate to any problem by number
+ls | grep "0053"
+# → 0053-maximum-subarray/
+cat 0053-maximum-subarray/0053-maximum-subarray.py
+```
+
+**Run a solution locally:**
+```bash
+python 0053-maximum-subarray/0053-maximum-subarray.py
+```
+
+---
+
+## 📚 Interview Preparation Roadmap
+
+Use this repo alongside these curated study tracks:
+
+| 🎯 Track | 📋 Focus | ✅ Coverage |
+|---|---|---|
+| **Blind 75** | Core interview patterns | ✅ Fully covered |
+| **NeetCode 150** | Extended pattern practice | ✅ Fully covered |
+| **LeetCode Top 100** | Most-asked problems | ✅ Fully covered |
+| **Daily Challenges** | Consistency & variety | ✅ Included |
+| **Company-specific** | FAANG & top tech firms | ✅ Patterns covered |
+
+---
+
+## 🛠️ Tools & Setup
+
+| Tool | Purpose |
+|---|---|
+| [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) | Auto-sync accepted solutions from LeetCode to GitHub |
+| Python 3 | Language used for all solutions |
+| LeetCode Premium | Access to company-tagged problems |
+
+---
+
+## 💡 How to Use Effectively
+
+1. **Try the problem yourself first** on [LeetCode](https://leetcode.com) — that's where real learning happens
+2. **Stuck? Check the solution** here as a reference
+3. **Read the README** inside each problem folder for the full problem statement
+4. **Study the pattern** — don't just memorize; understand why the approach works
+5. **Practice variations** — look up similar problems by topic in the table above
+
+> 💬 *"The goal isn't to memorize solutions — it's to internalize patterns so you can solve problems you've never seen before."*
+
+---
+
+## 🤝 Contributing
+
+Found a better solution or a bug? Contributions are welcome!
+
+1. **Fork** this repository
+2. **Create** a branch: `git checkout -b better-solution/problem-number`
+3. **Add** your optimized solution following the existing folder structure
+4. **Open a Pull Request** with a brief description of the approach and complexity
+
+**Please ensure your solution:**
+- Is in Python (or mention the language clearly)
+- Includes time and space complexity in a comment
+- Is placed in the correct problem folder
+
+---
+
+## 📈 Progress Timeline
+
+This repository has grown from 0 → 1000+ problems through consistent daily practice. The journey continues! 🔥
+
+```
+Jan → Mar  : Foundations — Arrays, Strings, Hashing
+Apr → Jun  : Intermediate — Trees, Graphs, DP basics
+Jul → Sep  : Advanced — Hard DP, Segment Trees, Tries
+Oct → Now  : Competitive — 1000+ problems and counting 🚀
+```
+
+---
+
+## ⚖️ License
+
+This project is licensed under the **MIT License** — feel free to use, share, and adapt.
+
+---
+
+<div align="center">
+
+### ⭐ If this helped you, please give it a star — it keeps me motivated to keep solving!
+
+**Made with 💻 + ☕ by [Daksh Jain](https://github.com/Dash10107)**
+
+*Keep grinding. Trust the process. 🚀*
+
+</div>
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
